@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "static/css/styles.css">
+    <title>Loan Approval Prediction</title>
+</head>
+<body>
+    <h1>Loan Approval Prediction</h1>
+    <form action="/predict" method="POST">
+        <!-- Gender -->
+        <label for="gender">Gender:</label>
+        <select name="gender" id="gender" required>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select><br>
+
+        <!-- Age -->
+        <label for="age">Age:</label>
+        <input type="number" name="age" id="age" required><br>
+
+        <!-- Education -->
+        <label for="education">Education Level:</label>
+        <select name="education" id="education" required>
+            <option value="high school">High School</option>
+            <option value="bachelor's">Bachelor's</option>
+            <option value="master's">Master's</option>
+            <option value="doctorate">Doctorate</option>
+        </select><br>
+
+        <!-- Region -->
+        <label for="region">Region:</label>
+        <select name="region" id="region" required>
+            <option value="rural">Rural</option>
+            <option value="urban">Urban</option>
+        </select><br>
+
+        <!-- Business Type -->
+        <label for="business_type">Business Type:</label>
+        <select name="business_type" id="business_type" required>
+            <option value="service">Service</option>
+            <option value="retail">Retail</option>
+            <option value="wholesale">Wholesale</option>
+        </select><br>
+
+        <!-- Monthly Income -->
+        <label for="monthly_income">Monthly Income:</label>
+        <input type="number" name="monthly_income" id="monthly_income" required><br>
+
+        <!-- Monthly Expenditure -->
+        <label for="monthly_expenditure">Monthly Expenditure:</label>
+        <input type="number" name="monthly_expenditure" id="monthly_expenditure" required><br>
+
+        <!-- Transaction Frequency -->
+        <label for="transaction_frequency">Transaction Frequency:</label>
+        <input type="number" name="transaction_frequency" id="transaction_frequency" required><br>
+
+        <!-- Network Size -->
+        <label for="network_size">Network Size:</label>
+        <input type="number" name="network_size" id="network_size" required><br>
+
+        <!-- Social Credibility Score -->
+        <label for="social_credibility_score">Social Credibility Score:</label>
+        <input type="number" step="0.01" name="social_credibility_score" id="social_credibility_score" required><br>
+
+        <!-- Monthly Sales -->
+        <label for="monthly_sales">Monthly Sales:</label>
+        <input type="number" name="monthly_sales" id="monthly_sales" required><br>
+
+        <!-- Inventory Turnover Rate -->
+        <label for="inventory_turnover_rate">Inventory Turnover Rate:</label>
+        <input type="number" step="0.01" name="inventory_turnover_rate" id="inventory_turnover_rate" required><br>
+
+        <!-- Vendor Invoices -->
+        <label for="vendor_invoices">Vendor Invoices:</label>
+        <input type="number" name="vendor_invoices" id="vendor_invoices" required><br>
+
+        <!-- Cash Deposits -->
+        <label for="cash_deposits">Cash Deposits:</label>
+        <input type="number" step="0.01" name="cash_deposits" id="cash_deposits" required><br>
+
+        <!-- Mobile Usage Hours -->
+        <label for="mobile_usage_hours">Mobile Usage Hours:</label>
+        <input type="number" step="0.01" name="mobile_usage_hours" id="mobile_usage_hours" required><br>
+
+        <!-- Geospatial Transactions -->
+        <label for="geospatial_transactions">Geospatial Transactions:</label>
+        <input type="number" name="geospatial_transactions" id="geospatial_transactions" required><br>
+
+        <!-- Utility Payment Regularity -->
+        <label for="utility_payment_regularity">Utility Payment Regularity:</label>
+        <input type="number" name="utility_payment_regularity" id="utility_payment_regularity" required><br>
+
+        <!-- Profit Margin -->
+        <label for="profit_margin">Profit Margin:</label>
+        <input type="number" step="0.01" name="profit_margin" id="profit_margin" required><br>
+
+        <!-- Previous Loans -->
+        <label for="previous_loans">Previous Loans:</label>
+        <input type="number" name="previous_loans" id="previous_loans" required><br>
+
+        <!-- Previous Loan Repayment -->
+        <label for="previous_loan_repayment">Previous Loan Repayment:</label>
+        <input type="number" name="previous_loan_repayment" id="previous_loan_repayment" required><br>
+
+        <!-- Dependents -->
+        <label for="dependents">Dependents:</label>
+        <input type="number" name="dependents" id="dependents" required><br>
+
+        <!-- Loan Amount Requested -->
+        <label for="loan_amount_requested">Loan Amount Requested:</label>
+        <input type="number" name="loan_amount_requested" id="loan_amount_requested" required><br>
+
+        <!-- Loan Purpose -->
+        <label for="loan_purpose">Loan Purpose:</label>
+        <select name="loan_purpose" id="loan_purpose" required>
+            <option value="working capital">Working Capital</option>
+            <option value="expansion">Expansion</option>
+            <option value="purchase">Purchase</option>
+            <option value="other">Other</option>
+        </select><br>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
