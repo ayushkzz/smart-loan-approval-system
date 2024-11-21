@@ -1,0 +1,723 @@
+id,gender,age,education,region,business_type,monthly_income,monthly_expenditure,transaction_frequency,network_size,social_credibility_score,monthly_sales,inventory_turnover_rate,vendor_invoices,cash_deposits,mobile_usage_hours,geospatial_transactions,utility_payment_regularity,profit_margin,previous_loans,previous_loan_repayment,dependents,loan_amount_requested,loan_purpose,loan_status
+129,female,18,bachelor's,urban,manufacturing,14788,9517,45,15,1.87,61081,2.58,29,2,7.88,1,1,7.97,2,1,4,434636,purchase,0
+1254,female,46,high school,rural,wholesale,29425,12507,37,31,4.77,25327,5.03,3,1,6.9,2,1,8.55,0,0,4,122550,expansion,1
+1357,female,40,doctorate,urban,retail,30402,13203,11,96,4.15,80530,8.28,13,3,1.71,4,1,29.9,1,0,5,13502,other,1
+4196,male,28,high school,urban,wholesale,9479,7284,37,62,2.26,49749,3.82,12,1,3.56,3,0,26.71,0,0,2,19981,other,0
+3701,female,53,bachelor's,rural,service,36006,18319,41,66,3.37,17746,14.98,28,3,4.45,1,1,6.54,2,0,5,485179,other,1
+3720,male,63,master's,urban,manufacturing,33063,10898,44,115,4.4,38363,5.35,27,2,4.83,1,1,13.9,2,1,4,77798,inventory,1
+4908,male,47,high school,rural,agriculture,21312,21312,37,122,3.84,22736,10.73,19,1,2.61,3,0,12.91,2,1,5,227343,inventory,0
+4519,male,42,bachelor's,rural,agriculture,6020,6020,17,22,1.83,62916,3.7,15,1,5.88,1,1,27.21,0,0,1,264918,purchase,0
+3301,female,63,doctorate,rural,wholesale,12131,12131,33,192,1.24,53226,5.73,20,3,7.26,1,1,28.48,1,0,3,336757,inventory,0
+1408,male,43,high school,rural,manufacturing,46782,28060,30,16,4.08,56278,8.05,8,1,5.32,4,1,6.14,1,1,5,470448,purchase,1
+2986,male,24,doctorate,urban,retail,38043,4517,38,152,4.32,58108,3.79,7,2,6.62,4,1,29.19,2,0,4,453759,purchase,1
+4307,female,28,doctorate,urban,agriculture,11630,3388,12,13,1.59,45579,9.62,23,3,1.1,2,0,14.03,2,2,4,459471,working capital,0
+3738,male,33,master's,rural,agriculture,37436,14703,47,160,4.96,79906,13.57,6,2,6.51,1,1,28.26,0,0,4,292781,expansion,1
+1061,male,34,doctorate,rural,retail,19328,15466,20,127,2.87,55245,4.18,15,3,3.65,1,1,21.07,1,0,2,32062,inventory,0
+3535,male,62,bachelor's,urban,service,38996,14780,49,144,4.37,37631,12.91,10,2,3.44,1,1,27.58,1,0,1,465439,expansion,1
+2066,female,41,doctorate,rural,manufacturing,25439,4844,7,105,4.82,85043,2.43,13,0,2.63,2,1,23.64,0,0,5,414667,working capital,1
+769,male,56,high school,urban,agriculture,24477,3544,49,170,4.81,39317,2.61,1,2,6.68,4,1,27.15,2,1,2,295369,other,1
+49,male,19,high school,urban,wholesale,46223,20977,44,96,3.06,71818,3.69,0,1,5.44,1,1,9.57,1,0,5,386050,inventory,1
+2579,female,49,master's,urban,agriculture,21741,21741,23,198,0.7,42403,2.48,18,2,4.54,3,0,6.16,0,0,3,34630,working capital,0
+3553,female,23,master's,urban,retail,36547,7757,10,133,4.07,96078,14,20,2,3.38,4,1,7.51,0,0,2,209706,other,1
+4846,female,53,bachelor's,urban,service,8372,8372,13,71,0.99,41986,5.85,2,4,6.49,3,0,12.06,0,0,2,448858,working capital,0
+2231,male,53,high school,urban,manufacturing,40963,32035,45,53,1.07,30932,13.66,15,3,2.94,1,1,9.53,0,0,4,318619,other,0
+3336,male,42,bachelor's,urban,manufacturing,45289,18003,36,190,3.13,89718,13.13,15,1,6.37,3,1,15.7,1,1,4,422946,expansion,1
+1615,male,26,bachelor's,urban,agriculture,30650,21408,35,188,3.78,43125,8.84,1,0,1.9,1,0,27.31,2,0,2,134979,other,0
+68,male,35,doctorate,rural,wholesale,48382,19319,49,27,2.3,69097,13.87,4,3,1.5,3,1,11.21,2,1,1,204001,other,0
+2967,female,61,high school,urban,manufacturing,29213,6634,49,62,3.1,19899,13.43,13,2,1,2,1,25.65,0,0,4,257356,other,1
+165,male,19,high school,rural,agriculture,26364,3528,32,99,3.98,15010,8.23,22,2,6.07,1,1,11.61,2,2,5,106715,purchase,1
+4977,female,30,doctorate,rural,agriculture,27416,8344,32,113,4.74,29506,1.19,25,0,3.66,4,1,20.89,2,1,1,176289,working capital,1
+578,female,22,bachelor's,rural,agriculture,21006,8948,27,142,1.63,83101,5.12,28,0,7.59,3,0,18.44,0,0,1,71894,expansion,0
+827,female,33,master's,urban,retail,20062,7424,26,58,0.52,75729,9.62,20,4,7.12,3,1,26.43,0,0,2,418320,working capital,0
+3308,female,39,master's,urban,retail,18684,18684,6,162,3.02,51936,7.98,0,3,6.9,2,0,6.78,1,1,1,76087,expansion,0
+2772,female,20,doctorate,urban,agriculture,9849,5728,48,199,2.28,54477,3.32,3,2,6.45,1,0,21.15,2,0,2,336566,inventory,0
+1401,male,52,master's,urban,wholesale,41674,6518,40,150,1.29,19622,1.59,26,0,4.9,4,0,20.64,0,0,1,98988,expansion,0
+3342,male,44,master's,urban,retail,43588,12703,23,70,3.93,19785,3.75,13,0,5.71,4,0,29.32,2,2,4,498106,inventory,0
+2332,female,63,high school,rural,wholesale,39451,8054,19,14,3.38,66763,5.44,1,4,2.74,4,1,5.76,2,1,2,380430,purchase,1
+3071,male,63,high school,rural,retail,30262,11813,43,94,3.44,85737,12.05,29,3,6.89,2,0,17.5,2,2,1,197668,expansion,0
+3123,female,42,bachelor's,rural,service,44125,3915,32,186,4.3,21563,1.01,24,4,3.54,1,1,26.72,1,0,5,374582,other,1
+671,female,64,bachelor's,rural,agriculture,7355,7355,42,114,4.87,81270,2.26,28,0,3.9,1,0,7.03,0,0,5,275791,working capital,0
+1818,female,37,master's,rural,service,36126,29469,20,27,1.25,99809,13.99,11,0,7.36,4,0,15.76,1,1,4,166528,working capital,0
+4787,female,58,bachelor's,rural,wholesale,43568,13551,42,188,4.67,26482,12.2,29,2,1.27,2,1,25.7,0,0,5,152236,inventory,1
+5,male,25,high school,rural,agriculture,30499,21946,18,168,1.77,94739,10.25,2,1,5.11,1,1,22.9,1,1,5,31589,inventory,0
+4420,female,36,doctorate,urban,manufacturing,17651,13411,23,107,2.24,82978,2.5,12,0,6.57,2,0,29.32,0,0,2,333604,expansion,0
+4849,male,54,doctorate,rural,wholesale,18102,16144,38,54,4.88,56804,1.33,3,2,1.98,3,1,29.72,0,0,3,318970,inventory,0
+386,male,62,master's,urban,agriculture,26561,11250,22,34,4.17,85998,2.73,3,0,3.11,1,1,26.93,2,0,4,392853,inventory,1
+4390,female,21,master's,urban,service,48077,19834,19,128,4.59,38062,12.33,16,1,5.89,1,0,19.99,2,0,3,54325,inventory,0
+4092,female,58,high school,rural,agriculture,35932,18637,39,120,3.87,89128,1.38,12,0,3.89,3,1,27.33,0,0,2,253379,purchase,1
+3282,male,20,doctorate,urban,wholesale,37995,12383,36,40,4.1,31750,4.74,9,3,7.87,1,1,17.35,0,0,3,82213,expansion,1
+112,female,58,doctorate,urban,wholesale,45407,26486,28,150,3.35,54939,3.57,21,4,7.46,2,1,17.85,0,0,5,157866,working capital,1
+2081,female,33,doctorate,rural,retail,29180,10697,22,166,4.18,62050,14.73,4,3,4.36,2,1,7.15,1,1,2,294582,other,1
+420,male,47,master's,rural,manufacturing,32584,17638,32,154,3.92,17054,8.23,29,1,4.04,1,1,18.2,1,1,2,156812,expansion,1
+2833,male,20,high school,urban,service,20428,20428,11,74,2.84,27104,8.71,2,1,4.44,2,1,28.53,1,0,1,484463,inventory,0
+3417,male,50,master's,rural,retail,40949,38129,37,88,4.83,69892,6.36,3,4,4.38,2,1,8.83,0,0,2,40538,other,0
+1818,female,37,master's,rural,service,36126,29469,20,27,1.25,99809,13.99,11,0,7.36,4,0,15.76,1,1,4,166528,working capital,0
+3060,female,25,bachelor's,urban,retail,38365,36783,41,81,4.21,27086,6.61,11,0,4,2,1,5.69,0,0,2,328318,purchase,0
+2518,male,51,bachelor's,urban,retail,27159,21181,29,52,1.33,87935,10.32,19,4,4.05,4,0,23.37,1,1,4,24364,other,0
+3686,female,41,high school,rural,manufacturing,6378,6378,10,53,2.4,17894,6.91,12,0,6.22,2,0,25.54,0,0,4,448143,inventory,0
+2432,female,21,master's,urban,wholesale,47911,28299,35,122,4.38,32706,12.6,7,2,5.74,2,1,26.04,1,0,4,277626,expansion,1
+1724,male,39,doctorate,urban,retail,25947,23792,37,123,1.37,41767,1.33,25,0,7.81,3,1,23.63,0,0,3,361254,working capital,0
+1384,male,28,bachelor's,rural,manufacturing,25158,6463,37,167,4.45,19123,10.01,27,3,7.69,1,1,22.25,1,1,4,122486,purchase,1
+4630,female,32,master's,rural,manufacturing,32419,16828,16,95,3.01,13019,7.84,29,0,2.18,4,1,29.63,0,0,2,193383,purchase,1
+3706,male,54,doctorate,rural,wholesale,23927,21899,19,62,3.34,44362,11.25,28,3,6.3,4,0,7.86,0,0,5,492155,expansion,0
+2073,female,64,bachelor's,urban,agriculture,21967,4259,27,106,4.56,94073,6.59,11,0,1.18,1,1,16.87,0,0,3,387144,inventory,1
+35,female,64,master's,rural,manufacturing,34737,26810,5,193,4.2,41712,14.38,1,4,5.81,4,0,11.03,2,0,2,408655,expansion,0
+742,female,22,doctorate,rural,manufacturing,36459,9051,14,10,4.26,57578,5.65,14,4,5.48,3,1,15.06,2,0,3,232194,inventory,1
+2901,male,27,high school,urban,service,43520,17635,28,71,4.72,49534,10.92,8,4,4.86,3,0,28.62,0,0,4,451620,working capital,0
+4132,female,41,master's,rural,manufacturing,47378,3203,27,147,3.88,97944,12.43,13,1,5.42,1,1,28.73,1,0,5,250011,working capital,1
+2466,female,52,high school,urban,service,13173,13173,35,85,4.86,11628,13.1,22,1,4.79,4,0,28.93,2,2,5,115038,other,0
+3093,female,49,bachelor's,urban,service,34030,25716,47,109,0.67,94195,2.24,11,2,2.11,3,0,7.47,1,0,3,491578,purchase,0
+3526,male,18,master's,rural,retail,36219,8311,49,193,1.79,29017,8.02,0,3,2.68,2,1,26.11,2,2,1,231499,working capital,0
+1040,male,36,doctorate,urban,wholesale,16071,16071,44,188,3.53,26674,4.12,7,1,4.22,4,1,29.62,0,0,1,485226,purchase,0
+112,female,58,doctorate,urban,wholesale,45407,26486,28,150,3.35,54939,3.57,21,4,7.46,2,1,17.85,0,0,5,157866,working capital,1
+3631,female,43,high school,urban,manufacturing,10353,10353,33,80,1.9,36457,7.66,9,4,1.25,4,1,25.66,0,0,2,208391,expansion,0
+1800,male,32,doctorate,urban,wholesale,14099,14099,17,85,0.66,75788,1.3,6,0,5.94,1,0,16.82,2,2,1,122476,working capital,0
+2727,male,61,high school,urban,service,16285,16285,8,65,4.91,57313,1.8,19,1,3.92,3,1,15.28,2,0,5,93327,other,0
+2560,female,19,master's,rural,wholesale,12504,12504,18,89,1.08,95894,2.83,13,4,7.86,3,0,28.31,1,0,5,380530,other,0
+2572,female,38,master's,rural,agriculture,31866,7659,6,124,4.45,17176,4.62,9,1,2.92,1,1,22.89,0,0,4,349169,inventory,1
+2442,male,29,master's,urban,retail,17777,17777,5,77,4.72,94260,8.61,13,1,3.44,4,1,5.78,2,1,4,163878,inventory,0
+1650,male,36,doctorate,rural,service,33281,31749,26,18,4.28,22624,8.48,29,0,4.21,2,0,14.41,0,0,1,366759,working capital,0
+4797,female,62,doctorate,urban,service,37975,22150,46,115,3.69,91540,11.8,21,0,6.33,2,1,9.27,0,0,2,498255,purchase,1
+523,female,46,doctorate,rural,manufacturing,33788,6774,34,84,3.1,25631,14.39,12,2,3.09,3,1,15.62,1,0,3,257109,other,1
+3282,male,20,doctorate,urban,wholesale,37995,12383,36,40,4.1,31750,4.74,9,3,7.87,1,1,17.35,0,0,3,82213,expansion,1
+619,female,25,master's,urban,retail,25407,17060,12,113,2.35,52882,11,4,2,4.04,3,0,24.4,2,1,5,472304,inventory,0
+2101,male,34,bachelor's,urban,service,42845,15740,7,143,3.93,63120,4.51,20,1,1.58,2,1,28.9,1,1,3,422847,expansion,1
+4270,male,55,doctorate,urban,service,30259,3603,31,148,4.67,41972,12.64,2,4,2.57,4,1,29.51,0,0,5,266021,expansion,1
+3921,male,60,doctorate,urban,agriculture,47890,23240,23,153,3.78,50302,6.03,13,2,6.02,2,1,28.42,2,0,3,413730,other,1
+1239,female,25,doctorate,rural,service,20396,7294,10,191,4.24,75853,7.87,25,4,1.88,3,0,24.06,0,0,1,130137,inventory,0
+1783,male,32,bachelor's,rural,retail,40495,16736,42,21,3.98,92946,9.36,26,0,7.08,3,1,27.32,1,1,1,135865,expansion,1
+2651,male,60,bachelor's,rural,wholesale,24807,12361,23,161,3.65,67146,11.97,10,3,2.1,2,1,20.75,0,0,4,48542,other,1
+4826,female,20,doctorate,urban,retail,16829,16829,32,98,1.88,17505,9.76,13,4,1.2,3,0,25.32,2,0,5,328915,purchase,0
+2197,male,60,high school,urban,manufacturing,41288,39724,9,56,4.8,89192,13.41,0,4,5.86,2,1,17.57,2,0,3,327642,inventory,0
+4852,female,49,master's,urban,service,8139,8139,16,191,2.71,55836,2.9,5,3,2.75,4,1,9.38,0,0,4,246748,purchase,0
+2235,male,30,high school,rural,agriculture,38674,24756,31,65,1.48,10939,4.65,16,3,3.13,1,0,25.21,0,0,5,49049,purchase,0
+2050,female,19,doctorate,urban,retail,15690,15690,30,147,3.26,92303,13.28,21,2,5.75,2,0,17.98,0,0,5,154329,inventory,0
+4372,male,57,bachelor's,urban,manufacturing,31790,13312,23,72,3.14,60648,4.84,18,1,7.36,3,1,28.85,1,0,5,22912,working capital,1
+3448,female,19,doctorate,rural,service,33243,3645,39,85,2.47,77403,6.6,1,0,4.13,4,0,27.04,2,1,2,108498,working capital,0
+1835,female,64,doctorate,urban,retail,18746,11894,31,159,0.53,61838,7.88,28,0,7.94,2,1,7.43,2,0,2,50513,other,0
+565,male,53,doctorate,rural,wholesale,44085,12941,11,34,1.78,20626,5.04,23,3,1.61,3,0,20.42,0,0,1,478985,purchase,0
+2341,male,50,doctorate,urban,service,29937,15029,5,112,3.85,36263,7.9,17,4,3.59,1,1,23.17,0,0,5,13831,expansion,1
+1274,male,63,high school,rural,retail,33664,7624,49,138,3.93,61384,4.57,15,0,6.84,2,1,6.61,0,0,3,482239,other,1
+4824,female,59,high school,rural,manufacturing,21259,6606,6,155,4.62,28569,11.92,6,1,5.84,3,1,7.25,1,1,4,217983,expansion,1
+3341,male,43,doctorate,rural,wholesale,34784,8973,29,150,3.31,90212,1.38,12,2,3.27,3,1,12.12,1,1,3,59704,expansion,1
+1091,male,19,bachelor's,urban,manufacturing,5638,5638,35,95,1.73,62226,8,8,0,5.12,3,1,15,0,0,4,287059,working capital,0
+4546,male,45,high school,urban,manufacturing,38028,8259,48,136,0.78,35526,5.85,6,0,4.47,2,0,28.81,2,2,1,53368,purchase,0
+3931,male,55,doctorate,rural,manufacturing,45194,9504,14,128,4.36,63756,11.93,10,1,4.84,2,1,15.01,0,0,3,254447,other,1
+3548,female,54,doctorate,rural,service,21909,3315,32,13,4.57,55506,13.76,11,0,5.88,4,1,23,1,0,4,85056,expansion,1
+4337,male,46,bachelor's,rural,manufacturing,49263,22133,43,119,4.54,31813,12.22,5,4,6.2,1,1,21.66,1,0,4,204544,expansion,1
+4190,male,18,master's,rural,retail,32944,26631,27,71,2.07,97931,13.59,8,2,2.33,4,1,27.46,1,0,5,317386,other,0
+3328,male,44,high school,urban,retail,8201,8201,45,196,1.31,92812,6.93,14,0,3.51,4,0,27.22,0,0,1,140512,working capital,0
+1220,male,49,doctorate,urban,manufacturing,37025,21018,44,85,3.55,11869,6.4,16,2,1.79,3,1,11.11,0,0,4,214925,expansion,1
+1844,male,58,master's,rural,agriculture,34000,4783,41,94,4.71,28711,11.6,20,4,4.34,4,1,20.9,0,0,2,470442,purchase,1
+2503,male,48,doctorate,urban,wholesale,48452,11163,20,189,4.76,49123,3.51,18,4,1.75,4,1,13.53,1,0,3,53286,expansion,1
+181,female,44,doctorate,urban,wholesale,16399,16399,19,22,3.51,15544,3.95,10,1,6.84,1,0,22.47,2,0,4,107285,other,0
+4977,female,30,doctorate,rural,agriculture,27416,8344,32,113,4.74,29506,1.19,25,0,3.66,4,1,20.89,2,1,1,176289,working capital,1
+478,male,22,high school,rural,manufacturing,39551,9659,47,10,3.65,83184,5.2,0,1,7.93,2,1,11.44,2,1,3,74736,working capital,1
+302,female,50,high school,rural,wholesale,46515,21408,37,67,3.56,67126,3.7,9,0,5.15,1,1,25.16,0,0,4,172606,expansion,1
+3239,male,62,master's,rural,manufacturing,47980,18233,39,45,3.9,54838,14.57,12,1,6.08,3,0,22.84,1,1,4,386711,purchase,0
+1449,male,42,doctorate,urban,service,37483,6534,24,146,4.93,77011,8.24,11,0,5.95,1,1,21.64,1,1,1,226029,inventory,1
+1631,female,30,high school,rural,retail,36989,3872,27,178,3.63,31755,13.94,25,0,7.73,2,1,10.36,0,0,5,127067,working capital,1
+2446,female,35,high school,rural,service,20329,11856,43,66,4.41,38099,1.6,4,0,7,3,1,12.05,1,1,1,104379,expansion,1
+2884,male,30,doctorate,urban,service,23212,16638,27,72,1.33,27851,10.15,27,2,7.8,3,0,16.86,1,0,4,395142,other,0
+3716,male,57,high school,rural,wholesale,39890,30679,36,109,3.95,45950,2.21,27,1,2.04,2,0,6.98,2,1,2,404038,inventory,0
+4173,female,37,bachelor's,rural,retail,41794,22359,20,73,3.99,83193,10.46,26,0,6.3,3,1,21.91,0,0,3,129243,other,1
+4616,male,32,bachelor's,rural,service,20740,4986,40,63,4.03,56265,13.34,24,3,1.96,1,1,8,2,1,1,150560,purchase,1
+2380,male,33,master's,rural,retail,39851,18674,28,165,1.09,68561,3.77,16,1,2.16,3,0,16.03,1,0,2,102573,working capital,0
+3728,male,25,master's,rural,service,10339,10339,10,99,3,47030,10.08,2,0,5.46,3,1,16.27,0,0,5,340026,working capital,0
+4958,male,25,doctorate,urban,retail,11500,11500,43,58,2.59,16246,7.77,20,2,4.8,3,0,11.91,2,1,5,303249,other,0
+1847,female,39,high school,urban,service,6861,6861,31,14,3.17,99504,6.47,7,4,4.57,2,1,14.87,1,0,1,266380,purchase,0
+1832,female,47,master's,urban,manufacturing,29020,20275,12,149,5,24251,10.08,27,2,4.49,4,0,28,1,1,2,106982,working capital,0
+1057,female,40,bachelor's,rural,retail,40248,6005,29,120,1.7,71957,4.67,23,3,2.9,2,0,6.04,1,1,1,423355,other,0
+3031,male,57,master's,urban,wholesale,7267,7267,36,171,3.72,66929,12.82,7,1,6.22,3,0,17.79,2,2,4,25455,expansion,0
+362,female,49,master's,urban,service,16837,16837,34,29,2.52,59285,2.84,7,4,2.89,1,0,14.68,0,0,1,385557,working capital,0
+3921,male,60,doctorate,urban,agriculture,47890,23240,23,153,3.78,50302,6.03,13,2,6.02,2,1,28.42,2,0,3,413730,other,1
+1407,female,26,bachelor's,rural,manufacturing,35384,17176,14,152,3.91,80787,10.55,18,1,4,4,0,8.95,2,1,4,227616,purchase,0
+1472,male,26,doctorate,rural,agriculture,5909,5909,46,81,1.32,30083,6.44,28,4,6.91,3,1,26.26,2,2,3,107827,other,0
+940,male,23,high school,rural,manufacturing,12855,12855,46,189,2.79,25319,1.81,17,2,5.9,3,0,8.17,0,0,5,251198,other,0
+3140,male,61,master's,urban,manufacturing,31801,6204,43,23,4.61,47820,5,11,1,5,1,1,13.37,1,1,2,355192,working capital,1
+2572,female,38,master's,rural,agriculture,31866,7659,6,124,4.45,17176,4.62,9,1,2.92,1,1,22.89,0,0,4,349169,inventory,1
+2088,male,49,high school,rural,retail,37934,13659,26,149,4.94,58786,3.49,28,1,7.35,4,1,5.84,2,1,1,64302,expansion,1
+763,male,57,master's,rural,retail,20804,10562,42,153,4.37,98080,5.16,24,0,4.24,3,0,25.39,2,0,2,262496,inventory,0
+4133,male,39,doctorate,rural,manufacturing,40268,23129,19,104,4.72,85489,13.5,12,3,1.19,4,1,15.87,1,1,1,311145,other,1
+4066,female,39,master's,rural,manufacturing,21605,3537,20,65,3.09,95993,9.99,5,4,2.66,4,1,26.39,2,1,5,191804,purchase,1
+938,female,39,doctorate,urban,retail,30090,28278,23,52,0.76,11833,13.29,1,3,1.4,3,0,21.93,1,1,3,379708,working capital,0
+2030,male,25,high school,urban,agriculture,29935,13233,29,75,4.47,87674,14.35,21,4,3.25,1,1,26.83,2,2,1,181457,inventory,1
+2558,female,39,doctorate,rural,manufacturing,33103,5657,35,34,3.3,70375,13.67,22,0,7.21,4,1,5.97,2,0,2,455230,other,1
+4756,male,30,doctorate,rural,wholesale,22430,22430,44,175,3.24,19923,2.73,26,3,7.96,2,0,24.77,0,0,3,65230,other,0
+4515,female,39,high school,urban,service,28081,13273,29,81,4.54,92451,14.03,22,0,5.35,4,1,15.9,0,0,1,199733,working capital,1
+3412,male,35,master's,urban,agriculture,35036,18503,20,132,3.81,19215,2.45,24,4,7.26,2,0,14.01,0,0,2,411788,purchase,0
+4797,female,62,doctorate,urban,service,37975,22150,46,115,3.69,91540,11.8,21,0,6.33,2,1,9.27,0,0,2,498255,purchase,1
+2716,female,64,high school,rural,agriculture,35083,3572,35,99,3.12,90082,8.7,4,4,4.34,3,1,15.85,0,0,1,204041,working capital,1
+2503,male,48,doctorate,urban,wholesale,48452,11163,20,189,4.76,49123,3.51,18,4,1.75,4,1,13.53,1,0,3,53286,expansion,1
+3341,male,43,doctorate,rural,wholesale,34784,8973,29,150,3.31,90212,1.38,12,2,3.27,3,1,12.12,1,1,3,59704,expansion,1
+2000,female,23,bachelor's,urban,manufacturing,21585,18395,39,63,4.08,36176,6.93,11,2,4.27,4,1,18.09,1,0,1,485811,other,0
+1784,female,51,bachelor's,rural,wholesale,7852,7852,33,181,3.52,85251,11.57,2,2,2.92,1,0,25,2,1,1,281459,purchase,0
+4346,male,64,high school,urban,agriculture,42972,17760,19,60,2.14,97642,5.2,24,4,4.12,1,1,22.3,1,1,4,296545,inventory,0
+739,male,23,bachelor's,urban,agriculture,36028,15142,46,41,3.68,16646,6.45,13,0,3.08,3,1,9.04,2,0,2,295176,expansion,1
+1587,female,59,high school,rural,service,45794,5400,9,63,4.87,90308,12.11,21,1,3.4,4,0,10.87,2,1,3,174645,purchase,0
+2211,female,53,doctorate,urban,retail,23018,3761,45,27,2.71,77136,11.96,2,4,2.54,2,0,11.4,2,0,2,366608,inventory,0
+607,female,63,master's,rural,manufacturing,11210,11210,44,13,3.86,90991,9.14,9,3,7.63,3,0,29.96,0,0,3,141091,inventory,0
+3591,male,64,doctorate,urban,retail,30360,14339,49,22,4.39,92958,11.16,11,0,6.43,1,1,18.64,0,0,3,417502,inventory,1
+3732,female,62,doctorate,urban,retail,21877,14560,35,82,2.82,42279,10.04,7,2,2.89,3,1,23.97,2,2,2,465100,working capital,0
+4839,female,19,doctorate,rural,agriculture,32152,14207,10,176,3.88,83633,3.7,23,4,2.5,2,1,5.59,2,1,2,126504,working capital,1
+1086,male,54,bachelor's,rural,wholesale,12733,12733,18,141,1.03,38897,10.37,12,2,2.14,2,1,7.98,2,0,4,254267,purchase,0
+4703,male,62,high school,rural,retail,9163,9163,22,139,1.71,89863,13.67,18,2,2.87,4,1,29.47,2,1,2,87645,purchase,0
+2503,male,48,doctorate,urban,wholesale,48452,11163,20,189,4.76,49123,3.51,18,4,1.75,4,1,13.53,1,0,3,53286,expansion,1
+1950,female,37,doctorate,urban,manufacturing,22591,22591,35,14,4.24,76804,5.33,27,1,6.87,1,1,11.85,2,0,4,422580,expansion,0
+606,male,24,doctorate,rural,wholesale,34581,7507,34,110,2.5,45898,11.03,12,1,3.96,1,1,28.92,1,1,2,301674,expansion,0
+4005,male,32,high school,urban,retail,45270,21211,40,191,4.87,34942,12.82,27,4,2.03,1,1,23.69,0,0,1,119371,other,1
+3001,male,23,bachelor's,rural,wholesale,26129,11143,31,72,4.45,91808,11.8,5,3,4.71,3,1,5.59,2,1,1,428127,purchase,1
+1384,male,28,bachelor's,rural,manufacturing,25158,6463,37,167,4.45,19123,10.01,27,3,7.69,1,1,22.25,1,1,4,122486,purchase,1
+4167,male,49,master's,urban,retail,38488,26105,35,87,4.83,92139,7.34,23,4,5.39,3,0,23.32,0,0,4,419623,working capital,0
+1900,male,64,high school,urban,manufacturing,28586,28586,11,192,2.73,29939,6.23,15,1,6.85,4,1,9.18,2,0,4,228284,other,0
+419,female,49,bachelor's,urban,service,44720,28838,39,157,3.02,86864,12.02,15,4,7.89,1,0,25.02,2,0,1,242825,inventory,0
+2120,male,43,high school,rural,retail,46444,8379,32,142,2.63,30349,3.09,25,4,1.56,2,0,11.25,1,0,2,255330,other,0
+704,female,37,doctorate,rural,manufacturing,43968,13736,19,124,3.04,37011,13.79,6,3,2.57,2,1,11.15,1,0,4,18531,working capital,1
+2081,female,33,doctorate,rural,retail,29180,10697,22,166,4.18,62050,14.73,4,3,4.36,2,1,7.15,1,1,2,294582,other,1
+4428,male,50,bachelor's,rural,wholesale,47489,6736,15,146,3.75,66215,1.14,20,3,6.05,1,1,27.47,0,0,3,468691,expansion,1
+148,male,56,doctorate,rural,service,48327,17833,38,199,3.1,15180,8.79,14,0,3.77,3,1,9.56,0,0,4,433429,purchase,1
+1132,male,60,doctorate,urban,service,27421,24340,35,148,2.1,27770,13.54,7,2,2.99,4,0,29.19,1,1,5,494960,other,0
+735,female,58,master's,urban,retail,46704,21050,20,196,4.34,43246,10.65,17,3,2.15,3,1,7.57,2,0,4,123045,other,1
+2483,male,20,doctorate,urban,agriculture,10385,10385,46,183,1.54,58222,9.59,12,1,5.15,4,0,21.85,1,0,5,303288,other,0
+3346,female,18,master's,urban,wholesale,32995,26280,34,107,2.17,84343,8.11,18,4,1.07,3,1,9.19,2,1,1,467192,purchase,0
+511,male,61,high school,rural,wholesale,22872,22872,27,180,4.11,86580,2.55,16,4,7.69,3,0,20.09,2,1,3,110649,inventory,0
+1162,female,63,doctorate,rural,retail,44632,11887,28,91,4.09,76559,10.07,20,1,5.94,2,1,25.85,1,0,4,467638,other,1
+1456,male,62,bachelor's,urban,retail,42233,19908,12,80,4.23,36901,1.22,2,0,1.64,3,1,14.06,2,2,1,362958,purchase,1
+584,male,40,doctorate,rural,wholesale,34143,6569,13,73,4.59,75547,5.08,18,2,2.01,1,1,27.2,0,0,5,164561,inventory,1
+4868,female,48,high school,rural,wholesale,49312,12655,21,61,0.89,62025,6.23,8,1,1.79,1,1,14.85,2,2,3,487744,inventory,0
+4628,male,21,bachelor's,rural,manufacturing,10804,10804,34,90,1.16,18471,3.98,8,0,5.41,2,1,28.08,0,0,4,359262,expansion,0
+4229,female,62,doctorate,urban,wholesale,15633,13987,40,28,1.91,35972,2,14,2,4.32,4,0,19.05,1,1,3,240457,inventory,0
+146,male,30,master's,rural,agriculture,41226,19683,32,74,3.72,81739,8.22,19,3,7.81,1,1,16.33,2,2,4,251954,inventory,1
+1365,female,57,high school,urban,manufacturing,15774,15774,11,66,3.55,84202,8.43,8,2,7.13,2,1,15.79,0,0,1,402181,working capital,0
+3427,female,29,doctorate,rural,wholesale,11918,11918,45,107,4.13,51214,11.44,16,2,1.63,3,1,7.53,2,0,2,313354,inventory,0
+1384,male,28,bachelor's,rural,manufacturing,25158,6463,37,167,4.45,19123,10.01,27,3,7.69,1,1,22.25,1,1,4,122486,purchase,1
+1640,male,20,high school,urban,agriculture,31440,7808,25,172,4,17973,14,14,0,4.2,2,1,13.2,1,1,1,12360,purchase,1
+3738,male,33,master's,rural,agriculture,37436,14703,47,160,4.96,79906,13.57,6,2,6.51,1,1,28.26,0,0,4,292781,expansion,1
+1479,male,56,bachelor's,urban,agriculture,17018,17018,34,57,1.05,46761,13.82,23,1,7.33,1,0,10.76,1,1,4,371726,other,0
+4700,male,63,bachelor's,rural,agriculture,29687,10056,23,199,3.23,64221,6.32,11,0,6.96,1,1,18.19,2,2,1,479373,expansion,1
+4301,male,59,master's,urban,wholesale,19141,16381,31,141,2.5,13078,13.97,8,4,7.27,2,0,13.26,0,0,4,281250,inventory,0
+297,female,33,doctorate,urban,retail,34837,15209,44,115,4.92,96733,12.93,8,2,2.45,2,1,10.99,0,0,4,144024,working capital,1
+2093,male,64,master's,rural,service,28726,17787,37,70,2.83,30450,14.29,21,2,2.12,1,1,27.32,0,0,4,351646,expansion,0
+2027,male,18,doctorate,urban,manufacturing,32186,4042,25,186,3.64,62550,9.26,3,4,6.38,2,1,20.85,0,0,4,473181,expansion,1
+3582,female,61,doctorate,rural,wholesale,28229,16336,5,31,3.69,61833,6.59,18,2,6.21,3,1,16.7,2,1,2,252845,expansion,1
+4816,female,62,high school,rural,agriculture,19372,9773,12,64,4.23,45833,9.46,18,1,4.99,1,1,7.81,2,1,3,229291,working capital,0
+1815,male,24,master's,urban,wholesale,41392,3683,45,162,1.66,47422,5.16,23,1,4.12,2,0,29.36,1,0,2,275148,expansion,0
+785,male,31,high school,rural,service,36452,18756,24,175,4.94,62286,13.74,10,2,5.18,2,1,21.95,1,0,5,330046,expansion,1
+4611,female,55,doctorate,urban,wholesale,35110,3737,45,161,3.05,36479,13.66,24,3,2.69,1,0,12.03,0,0,5,242651,purchase,0
+2741,male,38,doctorate,rural,wholesale,22096,22096,21,189,3.19,14946,14.17,20,1,4.35,2,1,27.47,1,0,1,101756,purchase,0
+1947,male,38,master's,urban,retail,46970,8178,7,97,3.58,15956,9.78,28,2,5.31,4,1,15.74,1,0,1,53884,expansion,1
+617,female,55,master's,rural,retail,49827,29427,45,75,3.17,40711,2.86,24,2,7.96,3,1,12.5,2,1,3,289436,purchase,1
+2386,female,33,bachelor's,urban,manufacturing,9100,9100,39,198,4.57,48639,14.83,21,1,1.75,3,0,5.42,1,1,2,265053,other,0
+4039,female,45,high school,urban,wholesale,25810,24440,28,86,0.99,58200,7.35,29,2,4.69,4,0,25.04,2,1,4,301576,purchase,0
+3436,female,28,high school,rural,manufacturing,49879,39735,17,152,4.65,94453,3.85,29,0,3.36,3,1,25.1,0,0,4,16605,other,0
+3150,male,43,bachelor's,urban,wholesale,32087,3213,19,114,4.5,88484,6.09,23,3,7.93,2,1,21.07,1,0,3,45985,inventory,1
+3506,female,18,master's,urban,wholesale,41088,21920,35,143,2.03,50294,10.88,24,4,5.05,3,1,21.65,0,0,5,50165,purchase,0
+913,male,27,master's,rural,manufacturing,5424,3202,24,55,2.08,23874,9.23,18,0,4.87,1,0,25.8,0,0,4,365350,expansion,0
+4173,female,37,bachelor's,rural,retail,41794,22359,20,73,3.99,83193,10.46,26,0,6.3,3,1,21.91,0,0,3,129243,other,1
+1071,female,20,bachelor's,urban,retail,33239,3529,14,190,3.14,13204,2.85,22,1,6.92,3,1,11.73,1,1,2,142304,other,1
+4779,female,33,master's,rural,service,31055,13140,28,169,4.61,41913,13.44,6,3,1.01,3,1,25.8,2,2,4,51618,expansion,1
+2726,female,40,high school,rural,wholesale,41827,20060,39,193,4.87,75578,6.65,16,2,6.06,3,1,13.27,2,0,4,154011,working capital,1
+3285,female,26,bachelor's,rural,service,36529,22946,8,122,2.52,78695,10.83,21,1,1.17,3,1,9.89,0,0,1,162971,inventory,0
+742,female,22,doctorate,rural,manufacturing,36459,9051,14,10,4.26,57578,5.65,14,4,5.48,3,1,15.06,2,0,3,232194,inventory,1
+226,female,22,master's,rural,retail,19178,19178,21,81,2.2,17958,1.88,15,2,1.48,1,1,19.25,1,1,4,345218,other,0
+1131,male,63,high school,rural,agriculture,18848,7234,31,88,3.2,69039,8.99,2,4,5.99,2,0,8.72,1,1,1,71946,purchase,0
+1384,male,28,bachelor's,rural,manufacturing,25158,6463,37,167,4.45,19123,10.01,27,3,7.69,1,1,22.25,1,1,4,122486,purchase,1
+2691,female,28,bachelor's,urban,retail,5489,5489,40,18,3.93,85877,10.32,2,2,2.66,4,0,15.06,0,0,3,139183,other,0
+1522,male,52,bachelor's,rural,service,22297,12946,39,99,3.09,67369,3.97,8,4,2.54,3,1,23.02,2,2,2,99182,inventory,1
+3960,female,45,doctorate,urban,retail,22882,22882,14,123,2.6,90725,2.78,5,4,7.18,2,1,13.64,1,1,5,203997,expansion,0
+3929,female,30,bachelor's,rural,wholesale,5721,5721,48,91,2.26,25433,8.15,16,2,3.66,3,1,15.7,2,1,4,301886,other,0
+3145,female,39,high school,urban,retail,23406,23406,19,43,4.89,24212,7.46,23,0,2.11,2,1,11.7,0,0,2,269006,inventory,0
+3342,male,44,master's,urban,retail,43588,12703,23,70,3.93,19785,3.75,13,0,5.71,4,0,29.32,2,2,4,498106,inventory,0
+3307,female,46,high school,urban,retail,26545,8556,24,98,3.09,21008,14.72,9,2,6.46,1,1,26.75,0,0,3,69461,other,1
+603,female,61,doctorate,rural,agriculture,47115,24291,32,195,1.33,99217,13.94,17,4,2.74,1,1,24.3,0,0,1,209289,purchase,0
+3672,male,33,bachelor's,rural,manufacturing,23047,12707,39,190,3.17,67238,7.97,13,1,4.12,2,1,6.99,2,2,5,313730,expansion,1
+3886,male,54,doctorate,urban,retail,41989,7626,45,134,3.89,49647,4.67,15,1,2.89,4,1,10.16,1,0,1,342579,working capital,1
+2006,male,54,bachelor's,urban,manufacturing,29763,11747,49,41,4.43,54827,7.09,25,3,4.97,4,1,9.61,2,1,1,199062,purchase,1
+3432,male,46,high school,rural,manufacturing,45517,10136,35,40,4.96,63916,10.79,17,3,6.9,3,1,17.69,0,0,1,115309,working capital,1
+3871,male,54,doctorate,rural,agriculture,38583,14819,11,157,4.98,36360,1.71,6,3,4.13,1,1,10.67,1,1,1,86591,working capital,1
+3715,male,19,bachelor's,urban,retail,16522,11459,31,40,2.43,42721,14.05,26,1,7.67,2,1,19.3,1,1,4,454193,other,0
+2054,male,43,master's,urban,manufacturing,15457,15457,26,139,2.06,90903,4.35,28,2,3.72,4,1,9.85,0,0,3,122741,purchase,0
+2818,male,38,high school,rural,service,21006,21006,47,63,3.9,88709,3.56,23,4,1.61,3,1,14.47,0,0,2,413541,working capital,0
+3045,female,25,master's,urban,service,26572,18698,31,148,1.23,49268,4.75,13,2,2.71,4,1,13.91,0,0,5,182097,other,0
+407,male,32,bachelor's,rural,agriculture,10774,10774,44,149,1.34,21662,12.74,7,3,3.02,4,1,21.31,1,1,5,302544,other,0
+4730,female,56,doctorate,rural,wholesale,42595,33465,20,198,3.53,59885,13.31,19,0,7.41,3,1,15.15,2,2,4,25607,expansion,0
+3616,female,64,master's,rural,manufacturing,19220,19220,38,95,1.19,29793,13.68,26,4,4.02,2,1,19.56,0,0,5,255628,expansion,0
+1384,male,28,bachelor's,rural,manufacturing,25158,6463,37,167,4.45,19123,10.01,27,3,7.69,1,1,22.25,1,1,4,122486,purchase,1
+4094,female,21,high school,rural,retail,8827,8827,24,124,2.18,30515,6.69,12,1,1,4,1,17.77,1,1,5,405454,working capital,0
+2586,male,21,doctorate,rural,manufacturing,24513,24513,26,168,1.87,37360,4.51,8,0,4.15,1,1,10.92,2,2,1,176969,working capital,0
+684,male,33,master's,urban,agriculture,40006,16679,22,94,4.86,34432,10.99,13,0,7.58,3,0,5.81,1,0,4,176070,expansion,0
+4479,male,55,master's,urban,wholesale,43913,15312,16,47,3.41,16157,13.65,17,1,2.04,3,1,29.77,2,1,4,129469,purchase,1
+2712,male,47,high school,urban,agriculture,17470,17470,37,190,0.75,95947,9.7,16,1,2.22,3,1,23.72,1,0,4,331193,other,0
+4794,female,36,doctorate,urban,wholesale,38738,13714,42,49,3.16,73221,7.18,24,2,6.79,2,1,29.35,2,1,4,409128,purchase,1
+2470,male,35,doctorate,urban,wholesale,45584,18925,45,195,3.79,87411,8.24,27,2,5.54,3,1,10.05,1,1,5,362023,inventory,1
+4507,male,18,high school,rural,service,30836,15132,12,11,3.55,24965,4.99,16,0,1.1,4,1,10.22,0,0,5,55367,working capital,1
+3512,male,35,bachelor's,urban,manufacturing,7288,7288,17,177,0.6,59715,2.08,13,1,3.38,2,0,15.35,1,1,4,462603,purchase,0
+4428,male,50,bachelor's,rural,wholesale,47489,6736,15,146,3.75,66215,1.14,20,3,6.05,1,1,27.47,0,0,3,468691,expansion,1
+3660,female,34,doctorate,urban,manufacturing,47789,34190,35,188,1.52,32846,14.19,20,4,1.9,1,0,25.67,2,2,5,56394,working capital,0
+4787,female,58,bachelor's,rural,wholesale,43568,13551,42,188,4.67,26482,12.2,29,2,1.27,2,1,25.7,0,0,5,152236,inventory,1
+478,male,22,high school,rural,manufacturing,39551,9659,47,10,3.65,83184,5.2,0,1,7.93,2,1,11.44,2,1,3,74736,working capital,1
+1766,male,44,master's,urban,agriculture,48809,25254,18,160,4.57,12445,13.74,2,2,7.45,1,1,15.09,1,1,4,441264,expansion,1
+17,female,39,master's,urban,manufacturing,24396,16133,45,180,1.87,41626,2.13,3,4,4.84,4,1,6.34,2,2,4,258179,working capital,0
+2101,male,34,bachelor's,urban,service,42845,15740,7,143,3.93,63120,4.51,20,1,1.58,2,1,28.9,1,1,3,422847,expansion,1
+3648,female,35,bachelor's,rural,wholesale,21820,21820,11,57,2.42,23029,9.43,9,4,2.92,3,0,11.13,2,2,4,386958,other,0
+1522,male,52,bachelor's,rural,service,22297,12946,39,99,3.09,67369,3.97,8,4,2.54,3,1,23.02,2,2,2,99182,inventory,1
+3359,male,60,master's,urban,wholesale,21291,13975,44,16,1.81,75264,9.68,28,2,4.52,2,0,11.65,2,1,3,150994,working capital,0
+1986,female,31,doctorate,rural,agriculture,12172,6475,42,13,4.45,27171,10.34,14,3,5.19,1,0,6.55,0,0,1,473955,purchase,0
+3701,female,53,bachelor's,rural,service,36006,18319,41,66,3.37,17746,14.98,28,3,4.45,1,1,6.54,2,0,5,485179,other,1
+4376,male,44,master's,rural,service,18891,14739,11,136,1.62,66858,6.81,5,2,5.87,4,1,14.94,0,0,3,356157,inventory,0
+2191,male,51,high school,rural,manufacturing,40902,21462,19,169,3.21,10246,7.38,13,1,5.55,3,1,24.15,2,2,4,303645,expansion,1
+3963,male,59,bachelor's,rural,agriculture,48346,14467,32,82,3.51,83244,6.97,14,3,4.96,3,0,26.42,2,2,2,476479,inventory,0
+1045,male,62,high school,rural,agriculture,40549,13556,26,190,1.24,84295,2.58,11,4,6.92,2,0,27.92,1,0,5,171800,inventory,0
+4630,female,32,master's,rural,manufacturing,32419,16828,16,95,3.01,13019,7.84,29,0,2.18,4,1,29.63,0,0,2,193383,purchase,1
+1821,male,55,high school,rural,manufacturing,14017,14017,30,131,3.35,86978,9.28,1,1,6.13,2,0,23.46,1,0,2,227746,inventory,0
+2685,male,49,bachelor's,urban,retail,47660,23698,42,27,0.74,60387,11.19,12,2,4.66,3,0,10.92,1,1,1,190962,other,0
+2962,male,32,doctorate,urban,agriculture,15232,15232,34,83,3.84,57388,5.33,14,1,5.71,4,1,18.14,2,2,4,143122,inventory,0
+2761,female,64,bachelor's,rural,agriculture,15796,15796,41,112,2.99,90986,5.66,8,2,7.95,3,1,21.22,2,1,5,376256,purchase,0
+1783,male,32,bachelor's,rural,retail,40495,16736,42,21,3.98,92946,9.36,26,0,7.08,3,1,27.32,1,1,1,135865,expansion,1
+3517,female,48,bachelor's,urban,wholesale,22878,6637,37,180,4.72,35328,12.16,26,4,1.66,4,1,22.09,0,0,4,116761,inventory,1
+1661,male,53,high school,urban,manufacturing,39055,8213,43,178,3.72,66581,2.2,0,2,2.83,2,1,11.44,0,0,4,467950,expansion,1
+2006,male,54,bachelor's,urban,manufacturing,29763,11747,49,41,4.43,54827,7.09,25,3,4.97,4,1,9.61,2,1,1,199062,purchase,1
+4905,female,20,master's,rural,service,8993,8993,6,177,1.75,15290,10.67,2,3,6.67,1,0,7.56,1,1,2,123477,purchase,0
+3738,male,33,master's,rural,agriculture,37436,14703,47,160,4.96,79906,13.57,6,2,6.51,1,1,28.26,0,0,4,292781,expansion,1
+864,male,47,doctorate,rural,service,42336,21540,41,121,0.91,56662,4.64,24,0,1.17,3,1,29.53,0,0,1,306231,expansion,0
+2868,male,21,bachelor's,rural,retail,47495,14445,42,101,3.65,57127,11.49,27,3,5.06,2,0,22.92,1,0,5,479447,other,0
+173,male,37,doctorate,urban,service,39285,33589,27,88,4.3,69399,13.41,8,3,3.14,4,1,25.49,0,0,4,77200,other,0
+3675,female,46,master's,urban,agriculture,36583,9906,8,66,3.89,10824,2.18,22,3,5.13,4,1,19.42,2,1,5,100587,working capital,1
+163,male,39,master's,rural,wholesale,33725,31949,38,11,3.21,66026,9.43,1,3,7.96,1,0,18.67,2,2,2,194235,other,0
+2739,female,19,bachelor's,rural,service,30146,10575,26,140,3.02,83785,7.43,6,0,4.8,4,1,21.39,0,0,1,55873,inventory,1
+4941,male,38,high school,rural,agriculture,29110,15031,41,121,1.99,23606,9.5,25,1,4.57,3,1,12.44,1,0,1,166967,working capital,0
+752,female,36,high school,rural,service,12087,12087,39,19,0.89,81385,5.9,14,4,1.54,4,0,12.87,0,0,5,121340,expansion,0
+2232,male,47,master's,urban,agriculture,14179,14179,48,167,3.57,48006,12.09,11,3,5.67,3,1,27.36,0,0,3,154875,inventory,0
+297,female,33,doctorate,urban,retail,34837,15209,44,115,4.92,96733,12.93,8,2,2.45,2,1,10.99,0,0,4,144024,working capital,1
+1273,female,49,doctorate,rural,manufacturing,35580,35580,42,81,2.06,16646,4.97,26,3,5.56,4,0,14.4,2,1,3,18642,inventory,0
+1086,male,54,bachelor's,rural,wholesale,12733,12733,18,141,1.03,38897,10.37,12,2,2.14,2,1,7.98,2,0,4,254267,purchase,0
+1329,female,62,bachelor's,urban,service,44732,13722,28,110,3.32,87835,13.18,6,3,1.92,3,1,8.67,2,0,4,235765,working capital,1
+1989,female,22,doctorate,rural,retail,35743,26270,5,176,4.81,52658,9.01,6,0,2.01,1,0,23.53,0,0,3,223292,other,0
+753,male,34,master's,rural,wholesale,28752,11338,41,17,2.93,75550,13.85,2,3,1.64,4,0,26.55,1,0,3,335891,expansion,0
+1649,female,41,master's,urban,service,38459,15113,16,94,3.8,87608,14.14,20,4,3.15,1,0,18.19,1,1,3,233569,expansion,0
+220,female,49,doctorate,urban,manufacturing,5135,5135,15,196,1.21,63345,1.57,2,3,5.32,3,0,17.59,2,0,5,213222,other,0
+4977,female,30,doctorate,rural,agriculture,27416,8344,32,113,4.74,29506,1.19,25,0,3.66,4,1,20.89,2,1,1,176289,working capital,1
+3396,male,62,bachelor's,rural,service,9950,3177,40,70,1.87,74605,2.36,15,1,7,1,1,19.72,0,0,4,318019,purchase,0
+2149,female,28,high school,urban,wholesale,36160,36160,19,40,4.09,86636,4.51,28,1,2.13,1,1,21.09,0,0,1,378258,purchase,0
+49,male,19,high school,urban,wholesale,46223,20977,44,96,3.06,71818,3.69,0,1,5.44,1,1,9.57,1,0,5,386050,inventory,1
+1822,female,39,bachelor's,rural,agriculture,30700,30492,6,179,1.51,91043,11.33,5,0,7.35,1,1,27.45,0,0,4,217789,working capital,0
+4849,male,54,doctorate,rural,wholesale,18102,16144,38,54,4.88,56804,1.33,3,2,1.98,3,1,29.72,0,0,3,318970,inventory,0
+922,female,51,doctorate,rural,agriculture,46524,21001,15,182,1.37,55205,14.35,10,4,7.41,2,0,23.35,0,0,5,386793,inventory,0
+3089,female,45,bachelor's,urban,agriculture,27849,7590,27,151,3.05,12653,9.27,20,4,4.46,3,1,21.53,0,0,2,455596,inventory,1
+1252,male,49,master's,urban,manufacturing,29136,21043,6,57,3.25,37578,8.89,15,0,2.99,2,1,26.63,2,2,5,222422,working capital,0
+2081,female,33,doctorate,rural,retail,29180,10697,22,166,4.18,62050,14.73,4,3,4.36,2,1,7.15,1,1,2,294582,other,1
+1765,male,28,high school,urban,retail,30191,15501,23,15,3.95,28297,11.38,16,4,2.26,4,1,11.76,0,0,1,482904,other,1
+3587,female,45,bachelor's,urban,retail,36686,30712,28,73,1.64,68389,7.12,9,4,1.22,2,0,15.46,2,2,3,369112,expansion,0
+3572,male,40,master's,urban,retail,16465,16465,26,11,4.91,17405,3.83,12,3,2.56,4,1,8.59,1,0,1,405834,inventory,0
+3484,male,49,master's,urban,manufacturing,47503,25702,26,100,2.81,19159,2.22,0,0,7.74,2,0,11.96,2,1,2,308077,inventory,0
+797,female,51,doctorate,rural,wholesale,16657,6894,40,174,3.92,57678,12.87,13,1,4.73,1,1,15.69,1,0,5,314975,working capital,0
+3605,male,25,doctorate,urban,retail,45121,38609,23,190,2.77,22727,12.46,11,3,4.33,1,0,16.07,0,0,2,157668,purchase,0
+2489,female,51,master's,urban,wholesale,23640,23640,49,176,1.93,14353,11.25,10,2,4.94,2,0,23.97,1,0,5,484719,other,0
+4977,female,30,doctorate,rural,agriculture,27416,8344,32,113,4.74,29506,1.19,25,0,3.66,4,1,20.89,2,1,1,176289,working capital,1
+4056,female,55,master's,rural,manufacturing,13572,13572,39,42,0.65,91094,8.67,26,1,2.44,3,1,11.51,0,0,4,143909,expansion,0
+2307,male,26,doctorate,urban,manufacturing,44566,12534,10,18,4.83,50047,7.36,21,0,5.98,2,1,19.39,2,0,1,105840,working capital,1
+3419,female,35,bachelor's,rural,wholesale,36794,13160,34,152,4.45,13107,4.53,23,2,4.82,1,1,5.1,0,0,1,375815,inventory,1
+2581,female,34,high school,rural,service,44585,15343,27,53,4.34,11340,4.88,23,2,4.15,4,1,9.3,0,0,3,350512,expansion,1
+1461,male,33,bachelor's,urban,wholesale,40070,6864,15,62,4.97,20895,6.21,28,1,3.72,4,1,6.29,0,0,3,11289,other,1
+4605,male,54,high school,rural,wholesale,19450,13943,48,78,4.18,20446,14.33,23,3,1.55,1,1,14.73,1,1,4,384689,inventory,0
+1674,female,47,doctorate,rural,manufacturing,42344,21262,31,57,3.17,69970,11.27,3,2,4.92,2,1,26.46,1,0,1,112857,working capital,1
+4150,female,19,master's,urban,retail,11066,11066,7,130,1.4,14350,4.85,17,1,4.19,1,1,21.42,1,0,5,113146,working capital,0
+1036,female,52,high school,urban,retail,46585,37484,36,147,3.75,49101,8.08,19,4,6.67,1,1,25.9,2,2,4,28083,inventory,0
+2760,female,61,high school,urban,agriculture,21624,15152,16,81,3.45,29960,7.36,20,3,2.08,3,1,24.79,1,1,1,424349,expansion,0
+1143,female,29,high school,urban,agriculture,43767,39795,38,55,2.97,42066,3.97,11,0,1.99,2,0,25.01,1,1,5,368381,other,0
+4380,female,30,doctorate,urban,manufacturing,42964,3345,26,97,1.65,12658,7.06,2,4,6.52,4,1,21.41,1,1,3,125858,purchase,0
+3964,female,64,master's,urban,wholesale,30106,11199,16,101,3.26,54438,10.02,17,1,2.55,4,1,29.01,2,2,1,275093,expansion,1
+2025,female,47,high school,rural,agriculture,41381,12119,44,61,4.47,83127,10.44,25,1,1.92,4,1,28.1,1,1,2,368479,other,1
+3010,male,27,high school,urban,retail,28903,27946,31,168,2.22,78897,4.08,14,3,4.21,2,1,10.83,1,1,5,254424,other,0
+3415,female,21,high school,rural,agriculture,37308,6478,22,81,4.93,97206,12.04,29,3,2.96,2,1,11.82,1,0,2,228132,expansion,1
+3582,female,61,doctorate,rural,wholesale,28229,16336,5,31,3.69,61833,6.59,18,2,6.21,3,1,16.7,2,1,2,252845,expansion,1
+625,female,42,bachelor's,rural,agriculture,24435,24435,9,20,1.6,98718,9,26,2,2.82,4,1,26.04,1,0,5,201865,other,0
+542,female,52,master's,urban,service,48386,13739,17,13,1.89,43231,1.18,19,4,6.15,2,1,16.83,2,0,1,222793,expansion,0
+2030,male,25,high school,urban,agriculture,29935,13233,29,75,4.47,87674,14.35,21,4,3.25,1,1,26.83,2,2,1,181457,inventory,1
+3535,male,62,bachelor's,urban,service,38996,14780,49,144,4.37,37631,12.91,10,2,3.44,1,1,27.58,1,0,1,465439,expansion,1
+3931,male,55,doctorate,rural,manufacturing,45194,9504,14,128,4.36,63756,11.93,10,1,4.84,2,1,15.01,0,0,3,254447,other,1
+3257,male,58,bachelor's,rural,agriculture,30973,10067,31,196,3.42,59854,8.37,28,3,5.27,4,1,25.53,2,2,2,222976,inventory,1
+1937,female,20,doctorate,rural,wholesale,43655,13809,19,160,2.55,38628,7.58,20,3,3.14,1,0,21.47,1,0,5,472249,working capital,0
+4455,male,35,doctorate,rural,agriculture,18675,9737,16,105,2.6,63168,2.29,10,4,6.11,3,1,14.84,2,0,1,193446,inventory,0
+4331,female,64,high school,urban,retail,33222,10461,11,119,3.43,75475,12.3,23,0,4.69,1,1,14.13,1,1,4,35593,purchase,1
+93,female,62,master's,rural,wholesale,34126,20305,15,42,4.8,53970,10.14,6,3,6.86,2,1,13.91,2,1,1,127888,purchase,1
+1768,female,34,doctorate,rural,agriculture,8807,8807,22,108,3.27,93407,10.27,11,1,7.22,3,1,18.88,0,0,3,447921,working capital,0
+1472,male,26,doctorate,rural,agriculture,5909,5909,46,81,1.32,30083,6.44,28,4,6.91,3,1,26.26,2,2,3,107827,other,0
+4767,male,24,bachelor's,rural,retail,38733,20511,12,136,3.85,35793,12.03,3,1,1.11,2,1,26.13,2,2,2,311510,working capital,1
+1864,male,19,high school,urban,wholesale,22911,4399,49,74,3.12,58406,6.93,8,2,4.87,2,1,17.07,2,2,4,178770,working capital,1
+3466,male,38,high school,urban,service,22105,22105,24,39,1.48,84875,9.15,26,2,5.99,3,1,21.74,0,0,5,486627,inventory,0
+3901,male,62,bachelor's,urban,retail,35059,20881,38,197,3.18,35657,11.72,23,3,6.55,1,1,21.04,1,1,1,172267,other,1
+2095,female,18,high school,urban,agriculture,39018,16303,38,20,3.89,83673,1.17,27,4,3.79,1,1,13.08,2,2,1,203262,expansion,1
+1984,female,61,master's,rural,service,20416,9101,47,187,4.48,32903,11.06,11,2,6.47,2,1,6.89,2,1,5,496165,other,1
+172,male,61,high school,urban,service,48065,23704,46,56,3.31,59113,14.23,10,4,6.97,4,1,6.25,2,0,1,282874,other,1
+2651,male,60,bachelor's,rural,wholesale,24807,12361,23,161,3.65,67146,11.97,10,3,2.1,2,1,20.75,0,0,4,48542,other,1
+1855,male,33,bachelor's,rural,wholesale,43297,5430,46,111,1.87,38299,7.35,21,0,5.54,1,1,16.19,1,0,3,190807,working capital,0
+473,female,50,high school,rural,service,42334,20085,29,97,4.17,12275,3.87,17,3,7.13,2,1,5.9,2,1,2,415568,expansion,1
+1615,male,26,bachelor's,urban,agriculture,30650,21408,35,188,3.78,43125,8.84,1,0,1.9,1,0,27.31,2,0,2,134979,other,0
+4033,female,30,bachelor's,urban,wholesale,43036,5700,11,138,0.63,90387,14.04,20,4,3.48,3,0,18.89,2,0,5,427052,purchase,0
+617,female,55,master's,rural,retail,49827,29427,45,75,3.17,40711,2.86,24,2,7.96,3,1,12.5,2,1,3,289436,purchase,1
+1232,female,64,high school,rural,manufacturing,22677,4964,15,24,4.15,54327,13.76,3,3,5.58,2,0,22.96,2,0,2,465261,purchase,0
+1157,female,58,master's,urban,retail,35339,29850,19,100,4.29,21015,5.88,27,4,6.22,3,1,20.71,0,0,5,375567,purchase,0
+3859,female,64,master's,rural,manufacturing,23336,23336,46,26,3.53,36117,3.57,19,1,1.21,2,1,25.36,2,0,1,129899,inventory,0
+4066,female,39,master's,rural,manufacturing,21605,3537,20,65,3.09,95993,9.99,5,4,2.66,4,1,26.39,2,1,5,191804,purchase,1
+2992,male,45,master's,rural,service,15165,3520,9,72,1.93,90963,4.26,24,4,3.78,3,1,20.37,0,0,1,66561,working capital,0
+3240,female,24,master's,urban,service,47368,4885,15,49,3.39,48632,14.75,21,3,6.09,2,1,16.03,2,1,1,470069,expansion,1
+2631,male,40,bachelor's,rural,service,27428,27428,21,73,4.55,92551,6.27,6,1,1.8,2,1,13.47,1,1,2,176589,purchase,0
+4439,female,46,high school,urban,agriculture,12928,11513,47,91,3.63,14031,7.54,9,0,2.94,4,1,21.96,1,1,2,27052,inventory,0
+4393,male,19,high school,rural,agriculture,10293,10293,10,79,1.77,18704,8.31,24,3,6.28,4,0,9.5,2,1,5,357004,purchase,0
+209,female,40,master's,urban,agriculture,37203,22146,12,70,1.65,67996,1.54,15,4,4.26,3,0,10.4,0,0,1,197215,inventory,0
+1554,male,29,doctorate,urban,wholesale,29630,5017,7,58,3.44,49630,6.72,26,2,5.61,2,1,12.6,0,0,1,153732,inventory,1
+3158,male,58,high school,rural,wholesale,8436,8436,24,82,2.92,56474,12.93,22,1,5.63,4,1,15.72,1,1,1,217306,inventory,0
+2554,female,39,master's,rural,agriculture,37726,9932,9,179,2.79,67812,4.46,2,0,1.09,4,0,12.62,0,0,2,211056,purchase,0
+4097,female,29,bachelor's,urban,wholesale,36318,15631,46,84,4.93,97579,6.41,20,1,7.26,1,1,13.95,1,1,1,495431,inventory,1
+1116,female,53,master's,rural,service,8514,7370,8,153,3.91,50698,11.8,27,3,7.65,3,1,10.76,0,0,4,33258,working capital,0
+3026,female,43,bachelor's,rural,wholesale,20105,20105,26,142,2.12,77655,7.51,18,4,6.92,3,1,25,1,1,5,458081,working capital,0
+4515,female,39,high school,urban,service,28081,13273,29,81,4.54,92451,14.03,22,0,5.35,4,1,15.9,0,0,1,199733,working capital,1
+1222,male,46,bachelor's,rural,wholesale,38580,38580,19,33,4.35,52971,7.04,21,2,5.03,1,1,19.28,1,0,2,287358,working capital,0
+2335,male,54,bachelor's,rural,service,30005,19471,30,26,2.95,97940,6.86,13,3,6.66,2,0,28.86,2,0,4,49195,expansion,0
+1799,male,25,high school,rural,service,17091,17091,24,143,0.96,19867,8.8,15,4,3.69,4,1,11.18,2,1,5,200054,inventory,0
+2081,female,33,doctorate,rural,retail,29180,10697,22,166,4.18,62050,14.73,4,3,4.36,2,1,7.15,1,1,2,294582,other,1
+126,male,39,doctorate,urban,retail,18346,8565,17,29,4.01,97485,2.28,14,4,6.08,4,1,11.91,2,2,5,475773,working capital,0
+4329,male,23,master's,rural,wholesale,14325,14325,31,152,4.01,53800,10.72,24,2,7.71,1,1,18.65,1,0,2,310592,working capital,0
+4998,male,38,doctorate,urban,manufacturing,14903,14903,28,120,0.58,80106,8.3,28,0,1.01,2,0,17.6,2,1,1,62518,working capital,0
+3516,male,64,doctorate,rural,retail,22127,10564,22,128,4.03,59885,12.01,21,2,6.54,2,1,10.57,2,2,4,306710,other,1
+656,male,61,master's,urban,service,40545,31812,22,187,2.61,32680,9.5,27,4,4.05,3,0,17.3,1,1,4,160794,inventory,0
+4577,female,28,doctorate,urban,service,13947,13947,20,148,4.43,93633,3.59,9,3,5.24,2,1,21.2,1,0,1,276640,expansion,0
+3886,male,54,doctorate,urban,retail,41989,7626,45,134,3.89,49647,4.67,15,1,2.89,4,1,10.16,1,0,1,342579,working capital,1
+2819,female,57,master's,rural,service,26643,25501,25,119,0.84,39808,8.83,12,0,1.86,4,0,27.11,0,0,3,498143,inventory,0
+2946,female,60,bachelor's,rural,service,27661,14079,18,64,4.36,98178,1.62,10,3,1.76,2,1,12.29,1,1,5,262522,other,1
+107,female,52,master's,urban,agriculture,5420,5420,20,155,2.77,32014,10.05,11,2,6.31,1,0,19.56,1,0,2,167527,other,0
+137,female,43,bachelor's,urban,agriculture,39133,27019,12,84,4.24,48733,7.88,10,4,2.38,3,0,5.84,1,0,4,265759,other,0
+3129,female,45,bachelor's,rural,agriculture,21938,21938,39,70,4.96,88294,7.88,25,4,2.03,4,0,26,0,0,2,321415,working capital,0
+2882,female,27,bachelor's,rural,manufacturing,48426,23930,12,36,4.28,48960,10.05,13,2,3.79,4,1,27.78,1,0,5,192960,working capital,1
+4158,female,61,master's,urban,service,27857,5812,40,70,3.31,83856,6.41,2,3,4.6,1,0,13.17,2,0,2,430788,expansion,0
+875,female,31,master's,urban,agriculture,29401,19236,7,98,3.19,47411,5.7,3,4,4.19,3,0,21.1,2,0,1,222055,other,0
+2558,female,39,doctorate,rural,manufacturing,33103,5657,35,34,3.3,70375,13.67,22,0,7.21,4,1,5.97,2,0,2,455230,other,1
+2073,female,64,bachelor's,urban,agriculture,21967,4259,27,106,4.56,94073,6.59,11,0,1.18,1,1,16.87,0,0,3,387144,inventory,1
+3205,female,32,master's,rural,wholesale,31630,8099,20,25,4.44,57596,2.08,27,3,3.2,2,0,10.66,2,2,2,121369,working capital,0
+4058,female,51,master's,urban,agriculture,48026,4144,7,124,3.62,75263,13.21,11,3,3.62,2,1,20.33,2,1,5,81389,inventory,1
+769,male,56,high school,urban,agriculture,24477,3544,49,170,4.81,39317,2.61,1,2,6.68,4,1,27.15,2,1,2,295369,other,1
+1384,male,28,bachelor's,rural,manufacturing,25158,6463,37,167,4.45,19123,10.01,27,3,7.69,1,1,22.25,1,1,4,122486,purchase,1
+2945,female,53,master's,urban,wholesale,22148,22148,27,87,2.35,68269,13.2,7,0,4.63,1,0,7.96,0,0,1,111005,working capital,0
+709,male,63,high school,urban,retail,35345,16158,24,84,1.25,76393,6.45,8,1,7.49,3,1,28.2,1,1,2,429593,purchase,0
+2654,female,47,doctorate,rural,service,16117,16117,30,174,4.68,33707,13.9,19,0,2.24,4,0,23.21,2,2,3,35516,purchase,0
+4005,male,32,high school,urban,retail,45270,21211,40,191,4.87,34942,12.82,27,4,2.03,1,1,23.69,0,0,1,119371,other,1
+1734,male,24,master's,rural,service,42372,14216,49,159,3.55,97043,14.41,18,0,2.41,1,1,22.28,0,0,4,430720,expansion,1
+2829,male,24,high school,rural,wholesale,48466,6400,42,113,4.76,76929,2.16,11,4,3.07,2,1,13.38,0,0,3,190905,purchase,1
+3548,female,54,doctorate,rural,service,21909,3315,32,13,4.57,55506,13.76,11,0,5.88,4,1,23,1,0,4,85056,expansion,1
+2030,male,25,high school,urban,agriculture,29935,13233,29,75,4.47,87674,14.35,21,4,3.25,1,1,26.83,2,2,1,181457,inventory,1
+3257,male,58,bachelor's,rural,agriculture,30973,10067,31,196,3.42,59854,8.37,28,3,5.27,4,1,25.53,2,2,2,222976,inventory,1
+3714,female,52,bachelor's,rural,manufacturing,28580,12098,13,96,1.92,58613,4.51,4,1,4.83,3,0,6.93,2,1,2,197546,inventory,0
+2088,male,49,high school,rural,retail,37934,13659,26,149,4.94,58786,3.49,28,1,7.35,4,1,5.84,2,1,1,64302,expansion,1
+1596,male,30,high school,rural,retail,22762,22762,7,127,1.02,97133,14.85,28,3,6.81,3,1,25.4,1,0,5,444512,expansion,0
+1530,male,64,bachelor's,rural,agriculture,29914,7837,12,165,4.76,94062,5.18,24,3,3.91,3,1,22.57,2,2,4,269062,purchase,1
+2133,male,28,high school,urban,manufacturing,41393,10199,33,80,3.39,90840,2.83,1,4,7.95,4,1,7.74,1,0,3,486151,other,1
+2092,male,39,high school,urban,manufacturing,47769,19400,17,95,3.97,39995,14.17,23,3,5.87,3,0,22.89,2,2,2,22143,other,0
+4441,male,35,master's,rural,manufacturing,5867,5867,6,151,2.1,49128,3.34,5,0,3.6,3,1,8.23,1,1,2,344146,working capital,0
+4329,male,23,master's,rural,wholesale,14325,14325,31,152,4.01,53800,10.72,24,2,7.71,1,1,18.65,1,0,2,310592,working capital,0
+3886,male,54,doctorate,urban,retail,41989,7626,45,134,3.89,49647,4.67,15,1,2.89,4,1,10.16,1,0,1,342579,working capital,1
+3871,male,54,doctorate,rural,agriculture,38583,14819,11,157,4.98,36360,1.71,6,3,4.13,1,1,10.67,1,1,1,86591,working capital,1
+503,male,54,high school,urban,wholesale,19230,19230,37,172,2.67,31655,6.91,27,2,1.35,3,1,26.58,2,0,5,219957,inventory,0
+3425,female,37,bachelor's,urban,agriculture,21122,6517,15,176,4.98,80251,2.97,28,2,3.41,1,1,18.01,2,1,5,31105,other,1
+2470,male,35,doctorate,urban,wholesale,45584,18925,45,195,3.79,87411,8.24,27,2,5.54,3,1,10.05,1,1,5,362023,inventory,1
+4026,female,59,high school,rural,manufacturing,21640,12124,18,61,1.28,17005,6,1,2,3.64,3,0,11.41,1,0,3,128592,other,0
+1734,male,24,master's,rural,service,42372,14216,49,159,3.55,97043,14.41,18,0,2.41,1,1,22.28,0,0,4,430720,expansion,1
+613,female,19,doctorate,rural,wholesale,22991,22991,40,193,0.89,14979,13.97,22,4,3.85,3,0,21.27,2,1,4,45242,other,0
+1695,female,41,high school,rural,wholesale,19727,19727,24,152,3.03,64734,1.09,1,0,5.36,1,0,11.52,2,1,1,387011,other,0
+2948,female,35,bachelor's,rural,manufacturing,49160,7343,18,97,0.52,66673,13.37,4,1,4.95,3,0,12.2,2,0,1,259574,inventory,0
+584,male,40,doctorate,rural,wholesale,34143,6569,13,73,4.59,75547,5.08,18,2,2.01,1,1,27.2,0,0,5,164561,inventory,1
+4777,female,49,doctorate,rural,manufacturing,22499,5724,45,50,2.95,11758,2.99,12,0,1.54,4,1,18.62,0,0,3,460572,working capital,0
+2949,male,60,high school,urban,manufacturing,5435,5435,5,80,1.21,89986,6.44,6,2,4.56,3,1,15.31,1,0,5,84108,working capital,0
+4173,female,37,bachelor's,rural,retail,41794,22359,20,73,3.99,83193,10.46,26,0,6.3,3,1,21.91,0,0,3,129243,other,1
+2769,male,18,bachelor's,rural,service,25523,6135,21,198,2.29,21710,8.75,21,2,5.45,4,1,7.42,2,1,4,350598,expansion,0
+3391,male,25,bachelor's,urban,agriculture,23128,23128,33,164,1.74,32692,1.78,2,4,7.88,3,0,27.44,2,2,2,213917,purchase,0
+1458,female,64,high school,rural,agriculture,44713,18117,47,135,3.77,30056,6,20,0,2.1,2,1,17.37,0,0,3,441308,working capital,1
+4086,male,30,master's,urban,retail,21608,3716,20,105,1.72,56998,3.36,22,4,6.09,2,1,8.66,2,0,5,169512,working capital,0
+648,female,18,bachelor's,rural,wholesale,13896,13896,33,163,4.39,49305,9.61,1,0,3.77,4,0,27.11,2,2,1,400482,expansion,0
+3746,female,19,bachelor's,rural,retail,9354,9354,16,26,0.66,94044,12.42,23,0,5.5,3,1,18.48,1,0,4,93289,other,0
+1309,female,47,bachelor's,rural,retail,33897,30841,15,139,0.81,24265,3.21,13,3,3.14,3,0,23.92,2,0,2,280074,purchase,0
+643,male,37,master's,urban,wholesale,20070,10085,9,112,4.44,69500,1.45,8,3,5.83,3,1,12.79,0,0,3,213038,inventory,1
+4977,female,30,doctorate,rural,agriculture,27416,8344,32,113,4.74,29506,1.19,25,0,3.66,4,1,20.89,2,1,1,176289,working capital,1
+2967,female,61,high school,urban,manufacturing,29213,6634,49,62,3.1,19899,13.43,13,2,1,2,1,25.65,0,0,4,257356,other,1
+1231,female,31,high school,urban,service,38436,8402,49,74,2.11,62598,13.22,18,0,4.27,3,0,12.43,2,1,3,260058,expansion,0
+1744,female,43,doctorate,urban,retail,32326,7367,36,92,4.4,58121,13.67,29,4,6.64,2,1,26.75,2,0,3,183391,purchase,1
+1651,female,33,high school,urban,service,6739,6739,39,59,3.36,30247,10.73,16,3,3.14,4,1,28.18,1,0,1,497391,inventory,0
+3257,male,58,bachelor's,rural,agriculture,30973,10067,31,196,3.42,59854,8.37,28,3,5.27,4,1,25.53,2,2,2,222976,inventory,1
+1945,male,29,doctorate,rural,manufacturing,40466,39589,28,110,1.81,11234,3.25,23,4,1.82,4,0,10.54,2,1,1,197932,purchase,0
+769,male,56,high school,urban,agriculture,24477,3544,49,170,4.81,39317,2.61,1,2,6.68,4,1,27.15,2,1,2,295369,other,1
+917,male,35,high school,urban,service,28154,4642,9,118,3.61,29432,11.55,18,0,7.31,1,1,11.81,2,2,3,16050,inventory,1
+1774,female,33,doctorate,urban,retail,22857,12642,9,88,4.68,44195,5.33,9,0,3.49,2,1,13.58,0,0,4,67737,other,1
+3407,male,62,master's,rural,retail,43995,21788,47,48,3.58,18545,9.78,11,1,3.64,2,1,12.2,0,0,2,283146,working capital,1
+3567,male,58,bachelor's,rural,service,38993,11462,20,72,4.19,55819,2.48,6,2,5.36,1,1,13.2,1,1,2,356631,other,1
+512,female,46,doctorate,urban,manufacturing,41897,15869,44,133,3.09,12209,9.42,25,0,6.65,3,1,29.38,2,0,1,59533,expansion,1
+3516,male,64,doctorate,rural,retail,22127,10564,22,128,4.03,59885,12.01,21,2,6.54,2,1,10.57,2,2,4,306710,other,1
+4787,female,58,bachelor's,rural,wholesale,43568,13551,42,188,4.67,26482,12.2,29,2,1.27,2,1,25.7,0,0,5,152236,inventory,1
+1373,female,43,doctorate,rural,wholesale,18343,18343,15,153,0.95,98601,14.35,7,4,1.08,2,0,26.69,2,2,5,401036,other,0
+2307,male,26,doctorate,urban,manufacturing,44566,12534,10,18,4.83,50047,7.36,21,0,5.98,2,1,19.39,2,0,1,105840,working capital,1
+2518,male,51,bachelor's,urban,retail,27159,21181,29,52,1.33,87935,10.32,19,4,4.05,4,0,23.37,1,1,4,24364,other,0
+4700,male,63,bachelor's,rural,agriculture,29687,10056,23,199,3.23,64221,6.32,11,0,6.96,1,1,18.19,2,2,1,479373,expansion,1
+1766,male,44,master's,urban,agriculture,48809,25254,18,160,4.57,12445,13.74,2,2,7.45,1,1,15.09,1,1,4,441264,expansion,1
+222,female,28,high school,rural,manufacturing,47060,9632,25,156,1.86,95890,8.39,23,1,3.22,3,1,8.9,2,2,5,393725,other,0
+2912,male,53,master's,urban,service,47312,25736,19,170,1.37,85713,6.75,10,2,7.15,2,0,5.28,2,0,5,231256,purchase,0
+3145,female,39,high school,urban,retail,23406,23406,19,43,4.89,24212,7.46,23,0,2.11,2,1,11.7,0,0,2,269006,inventory,0
+2446,female,35,high school,rural,service,20329,11856,43,66,4.41,38099,1.6,4,0,7,3,1,12.05,1,1,1,104379,expansion,1
+1135,female,30,high school,urban,agriculture,20860,9842,28,125,3.02,27581,3.02,29,1,1.84,1,1,10.41,1,0,1,249770,expansion,1
+3871,male,54,doctorate,rural,agriculture,38583,14819,11,157,4.98,36360,1.71,6,3,4.13,1,1,10.67,1,1,1,86591,working capital,1
+4797,female,62,doctorate,urban,service,37975,22150,46,115,3.69,91540,11.8,21,0,6.33,2,1,9.27,0,0,2,498255,purchase,1
+978,female,37,master's,urban,manufacturing,28032,15018,32,169,3.25,48899,3.71,13,1,4.5,3,1,17.98,0,0,1,161334,expansion,1
+3391,male,25,bachelor's,urban,agriculture,23128,23128,33,164,1.74,32692,1.78,2,4,7.88,3,0,27.44,2,2,2,213917,purchase,0
+3516,male,64,doctorate,rural,retail,22127,10564,22,128,4.03,59885,12.01,21,2,6.54,2,1,10.57,2,2,4,306710,other,1
+1357,female,40,doctorate,urban,retail,30402,13203,11,96,4.15,80530,8.28,13,3,1.71,4,1,29.9,1,0,5,13502,other,1
+4072,male,48,master's,rural,manufacturing,40338,26430,25,151,2,67534,4.19,4,3,6.12,4,0,12.94,0,0,1,310764,working capital,0
+2382,female,47,high school,rural,agriculture,23070,5924,24,23,3.03,92191,14.51,10,1,7.31,3,1,24.73,0,0,3,266665,other,1
+2307,male,26,doctorate,urban,manufacturing,44566,12534,10,18,4.83,50047,7.36,21,0,5.98,2,1,19.39,2,0,1,105840,working capital,1
+4841,male,45,bachelor's,rural,agriculture,14939,6371,41,18,1.04,91231,1.56,0,0,6.8,3,1,14.51,1,0,1,170326,purchase,0
+723,male,35,master's,urban,agriculture,44179,18993,38,15,3.54,57054,14.45,10,2,6.33,1,1,17.5,2,2,5,62601,expansion,1
+2825,female,21,bachelor's,rural,retail,27357,9476,13,23,4.33,86258,13.03,16,1,2.3,1,1,9.53,1,0,1,290771,other,1
+1363,female,23,bachelor's,urban,wholesale,47988,14267,49,128,4.2,12410,11.57,22,0,5.45,1,1,13.36,2,1,2,157701,inventory,1
+2670,female,20,master's,urban,agriculture,27074,14414,43,177,4.52,58385,10.86,9,0,5.8,4,1,16.55,2,2,4,241663,expansion,1
+531,male,62,bachelor's,urban,service,14891,14891,46,109,0.91,65856,1.38,18,4,6.26,1,0,24.94,1,0,4,447084,purchase,0
+1862,male,49,doctorate,urban,agriculture,15191,15191,28,81,2.72,36352,2.27,11,0,6.02,4,0,17.49,1,0,2,109229,purchase,0
+3831,female,35,doctorate,rural,retail,35083,7498,28,35,4.96,36833,7.35,11,1,7.82,1,1,29.45,0,0,1,318246,purchase,1
+3282,male,20,doctorate,urban,wholesale,37995,12383,36,40,4.1,31750,4.74,9,3,7.87,1,1,17.35,0,0,3,82213,expansion,1
+2943,male,26,master's,urban,agriculture,16074,16074,32,53,4.95,67911,7.06,7,1,1.95,2,1,18.61,1,1,3,263390,working capital,0
+4252,female,41,master's,urban,manufacturing,42488,25470,11,176,2.55,13501,10.2,19,1,7.2,4,1,21.63,0,0,1,251560,working capital,0
+3229,male,40,bachelor's,rural,service,26863,25234,28,103,2.58,68198,6.24,26,1,6.7,4,1,11.37,0,0,1,411674,other,0
+1783,male,32,bachelor's,rural,retail,40495,16736,42,21,3.98,92946,9.36,26,0,7.08,3,1,27.32,1,1,1,135865,expansion,1
+1363,female,23,bachelor's,urban,wholesale,47988,14267,49,128,4.2,12410,11.57,22,0,5.45,1,1,13.36,2,1,2,157701,inventory,1
+3411,male,37,master's,rural,agriculture,29647,7161,15,142,2.88,19437,10.94,15,2,6.02,1,1,29.61,1,0,3,273009,inventory,0
+2379,male,64,doctorate,urban,manufacturing,23069,5411,41,30,4.26,89671,8.98,11,3,7.33,4,1,15.6,1,1,1,251312,other,1
+3931,male,55,doctorate,rural,manufacturing,45194,9504,14,128,4.36,63756,11.93,10,1,4.84,2,1,15.01,0,0,3,254447,other,1
+2470,male,35,doctorate,urban,wholesale,45584,18925,45,195,3.79,87411,8.24,27,2,5.54,3,1,10.05,1,1,5,362023,inventory,1
+3469,male,40,high school,urban,agriculture,44935,14776,36,185,4.37,57109,2.5,23,2,5.68,4,1,5.27,2,2,1,325384,purchase,1
+141,female,26,high school,rural,wholesale,22400,22400,8,122,4.72,65647,6.15,2,0,6.41,3,0,25.55,1,0,4,177986,other,0
+1668,male,48,bachelor's,rural,wholesale,35692,3846,9,32,3.13,11626,6.96,12,3,3.77,3,1,15.31,2,2,5,205305,purchase,1
+2633,female,18,master's,rural,service,18706,18706,6,107,3.43,67705,5.06,13,0,3,2,0,17.29,1,1,1,308683,inventory,0
+148,male,56,doctorate,rural,service,48327,17833,38,199,3.1,15180,8.79,14,0,3.77,3,1,9.56,0,0,4,433429,purchase,1
+2166,male,52,bachelor's,rural,wholesale,36232,34023,41,58,2.73,18718,1.67,6,3,1.24,3,1,24.77,1,1,2,30403,working capital,0
+4905,female,20,master's,rural,service,8993,8993,6,177,1.75,15290,10.67,2,3,6.67,1,0,7.56,1,1,2,123477,purchase,0
+3178,female,57,high school,rural,service,21385,20261,20,53,4.5,73413,5.3,10,0,1.28,4,1,16.73,2,1,1,141504,purchase,0
+1830,female,38,bachelor's,rural,retail,35063,13056,48,20,4.88,21020,6.78,10,0,3.44,4,1,23.63,2,2,3,485003,expansion,1
+3140,male,61,master's,urban,manufacturing,31801,6204,43,23,4.61,47820,5,11,1,5,1,1,13.37,1,1,2,355192,working capital,1
+1449,male,42,doctorate,urban,service,37483,6534,24,146,4.93,77011,8.24,11,0,5.95,1,1,21.64,1,1,1,226029,inventory,1
+1620,female,28,doctorate,rural,wholesale,44479,6213,8,131,1.37,91140,1.26,18,2,5.72,2,0,28.46,1,1,5,34650,working capital,0
+4839,female,19,doctorate,rural,agriculture,32152,14207,10,176,3.88,83633,3.7,23,4,2.5,2,1,5.59,2,1,2,126504,working capital,1
+1814,male,31,bachelor's,rural,wholesale,15902,15902,38,75,2.8,75179,12.51,17,0,2.81,4,1,22.41,1,1,1,85611,purchase,0
+2254,male,24,bachelor's,rural,agriculture,41161,3290,39,52,3.5,30486,4.97,14,4,7.52,4,1,24.12,2,1,2,80685,working capital,1
+4718,male,49,doctorate,rural,manufacturing,43648,17992,15,53,4.34,98993,1.06,14,1,5.02,1,1,17.77,1,0,4,176149,inventory,1
+1523,female,56,bachelor's,rural,service,46349,13891,14,39,3.41,91764,5.1,17,4,7.13,4,1,26.2,0,0,5,129758,inventory,1
+3714,female,52,bachelor's,rural,manufacturing,28580,12098,13,96,1.92,58613,4.51,4,1,4.83,3,0,6.93,2,1,2,197546,inventory,0
+4240,male,32,bachelor's,urban,wholesale,45320,24013,41,141,4.77,82441,11.21,15,3,1.28,4,1,17.5,1,0,1,424706,inventory,1
+4677,male,23,doctorate,rural,service,7843,7843,19,134,4.29,54998,8.97,29,2,7.83,2,0,8.45,1,1,3,401683,inventory,0
+2975,male,43,high school,urban,manufacturing,49367,6469,34,134,3.44,28244,6.68,21,2,3.12,1,1,19.36,1,1,3,110090,expansion,1
+742,female,22,doctorate,rural,manufacturing,36459,9051,14,10,4.26,57578,5.65,14,4,5.48,3,1,15.06,2,0,3,232194,inventory,1
+3985,female,26,doctorate,rural,manufacturing,35370,26702,33,63,3.04,57539,3.24,18,0,2.91,3,1,19.96,0,0,5,173214,purchase,0
+3140,male,61,master's,urban,manufacturing,31801,6204,43,23,4.61,47820,5,11,1,5,1,1,13.37,1,1,2,355192,working capital,1
+1554,male,29,doctorate,urban,wholesale,29630,5017,7,58,3.44,49630,6.72,26,2,5.61,2,1,12.6,0,0,1,153732,inventory,1
+84,male,35,bachelor's,rural,wholesale,20963,12542,11,29,3.53,83379,14.81,5,0,3.3,4,1,26.07,0,0,5,312638,purchase,1
+3858,female,21,master's,rural,retail,19378,19378,9,35,3.53,33902,9.62,10,1,1.3,4,1,21.21,0,0,1,96637,other,0
+1391,male,51,doctorate,urban,agriculture,14262,3605,22,128,1.7,10633,6.81,13,4,3.16,1,1,19,1,0,5,153903,purchase,0
+3950,female,53,high school,urban,manufacturing,40127,17008,29,61,4.8,65644,9.8,12,1,1.84,3,1,13.43,0,0,3,403023,purchase,1
+3351,male,31,high school,rural,agriculture,33554,11878,8,41,3.22,97209,8.87,16,0,3.02,4,1,14.25,1,0,2,46174,expansion,1
+2651,male,60,bachelor's,rural,wholesale,24807,12361,23,161,3.65,67146,11.97,10,3,2.1,2,1,20.75,0,0,4,48542,other,1
+553,female,30,doctorate,urban,retail,5695,5695,11,78,4.01,51699,8.19,29,2,7.41,4,1,24.73,2,1,4,465446,expansion,0
+1220,male,49,doctorate,urban,manufacturing,37025,21018,44,85,3.55,11869,6.4,16,2,1.79,3,1,11.11,0,0,4,214925,expansion,1
+3363,female,56,master's,urban,manufacturing,29715,28239,23,106,0.75,94449,13.85,0,1,6.39,2,1,7.72,2,2,2,52792,expansion,0
+3136,female,28,high school,urban,wholesale,36619,22000,16,39,3.77,34055,2.82,19,1,4.11,4,0,13.78,1,0,4,358535,purchase,0
+3910,male,20,high school,urban,agriculture,8361,8361,39,153,1.98,87373,5.52,14,2,1.59,2,1,5.9,2,0,3,95916,expansion,0
+3699,male,20,high school,rural,service,49713,13929,33,162,3.08,36513,6.24,1,3,2.03,4,1,26.67,1,0,1,91375,working capital,1
+3561,male,62,high school,urban,service,29707,29361,31,16,2.9,68552,3,5,0,3.54,3,0,21.28,0,0,5,207741,working capital,0
+704,female,37,doctorate,rural,manufacturing,43968,13736,19,124,3.04,37011,13.79,6,3,2.57,2,1,11.15,1,0,4,18531,working capital,1
+282,male,25,master's,urban,agriculture,25126,25126,37,34,4.49,93366,5.6,7,0,2.28,2,0,14.37,2,2,4,312196,working capital,0
+3657,female,25,bachelor's,urban,service,9909,9786,28,70,3.98,55999,10.08,10,3,2.45,2,1,20.38,1,0,4,358168,purchase,0
+1521,male,49,master's,urban,service,34980,18120,42,130,4.45,98203,3.99,11,3,5.04,1,0,22.14,1,1,2,37219,expansion,0
+4383,male,29,high school,urban,service,25263,6770,22,146,4.55,45663,4.21,8,0,2.6,2,1,12.19,2,2,2,400353,expansion,1
+2904,male,23,bachelor's,rural,manufacturing,28471,10988,29,48,2.2,42771,12.96,13,2,6.32,3,1,28.89,0,0,2,127463,expansion,0
+2154,female,38,master's,rural,agriculture,38159,35636,21,70,2.41,63246,13.51,19,1,7.34,1,0,26.39,2,0,2,490829,purchase,0
+4013,female,22,master's,rural,agriculture,46121,33084,48,106,4.03,90631,7.7,19,2,6.08,4,1,23.98,1,1,2,306108,other,0
+3516,male,64,doctorate,rural,retail,22127,10564,22,128,4.03,59885,12.01,21,2,6.54,2,1,10.57,2,2,4,306710,other,1
+1832,female,47,master's,urban,manufacturing,29020,20275,12,149,5,24251,10.08,27,2,4.49,4,0,28,1,1,2,106982,working capital,0
+4718,male,49,doctorate,rural,manufacturing,43648,17992,15,53,4.34,98993,1.06,14,1,5.02,1,1,17.77,1,0,4,176149,inventory,1
+2088,male,49,high school,rural,retail,37934,13659,26,149,4.94,58786,3.49,28,1,7.35,4,1,5.84,2,1,1,64302,expansion,1
+3559,female,64,master's,urban,wholesale,19947,19947,32,70,3.81,86878,4.38,28,3,7.07,1,0,25.6,1,0,3,323782,expansion,0
+4235,male,63,master's,urban,retail,25045,11056,12,120,3.95,82778,1.39,13,2,6.72,4,1,16.89,1,0,4,269568,working capital,1
+3036,female,31,doctorate,rural,service,22329,10421,13,14,4.38,98128,3.68,15,1,2.76,4,1,21.14,1,0,4,84625,inventory,1
+3036,female,31,doctorate,rural,service,22329,10421,13,14,4.38,98128,3.68,15,1,2.76,4,1,21.14,1,0,4,84625,inventory,1
+273,female,52,high school,rural,wholesale,12039,12039,20,190,0.6,66365,14.94,18,2,2.17,3,0,18.88,1,1,3,214391,other,0
+2882,female,27,bachelor's,rural,manufacturing,48426,23930,12,36,4.28,48960,10.05,13,2,3.79,4,1,27.78,1,0,5,192960,working capital,1
+2307,male,26,doctorate,urban,manufacturing,44566,12534,10,18,4.83,50047,7.36,21,0,5.98,2,1,19.39,2,0,1,105840,working capital,1
+1076,female,64,bachelor's,rural,retail,33841,8605,45,111,3.75,28868,8.23,4,1,4,4,1,29.67,2,2,5,366382,purchase,1
+4476,female,44,bachelor's,rural,service,21328,5414,36,186,3.24,59283,4.38,20,1,6.57,1,1,19.67,2,1,4,157912,working capital,1
+302,female,50,high school,rural,wholesale,46515,21408,37,67,3.56,67126,3.7,9,0,5.15,1,1,25.16,0,0,4,172606,expansion,1
+4797,female,62,doctorate,urban,service,37975,22150,46,115,3.69,91540,11.8,21,0,6.33,2,1,9.27,0,0,2,498255,purchase,1
+442,female,49,doctorate,rural,service,29070,5684,32,154,3.68,59843,5.13,19,2,3.27,2,1,27.04,0,0,3,412316,expansion,1
+325,male,50,high school,rural,agriculture,23041,8605,31,34,2.58,74197,10.99,16,2,7.65,2,0,15.97,1,1,4,78288,inventory,0
+2940,male,30,high school,urban,manufacturing,49286,10137,42,95,4.65,84632,14.77,10,4,6.24,1,1,27.99,0,0,4,340345,working capital,1
+592,female,22,high school,urban,manufacturing,23543,4862,43,100,3.73,81407,6.81,5,1,6.93,1,1,13.45,1,0,5,372705,working capital,1
+3493,female,28,master's,rural,retail,45682,30331,46,102,0.92,87156,4.37,4,2,4.76,3,0,19.49,2,0,1,415669,purchase,0
+180,female,18,doctorate,urban,agriculture,49191,10322,45,32,3.18,58279,3.6,17,0,6.04,3,0,16.57,0,0,4,202958,other,0
+512,female,46,doctorate,urban,manufacturing,41897,15869,44,133,3.09,12209,9.42,25,0,6.65,3,1,29.38,2,0,1,59533,expansion,1
+1393,female,41,doctorate,rural,service,47481,11652,10,27,4.67,27632,6.23,29,0,7.69,2,1,21.44,0,0,2,457821,other,1
+4846,female,53,bachelor's,urban,service,8372,8372,13,71,0.99,41986,5.85,2,4,6.49,3,0,12.06,0,0,2,448858,working capital,0
+769,male,56,high school,urban,agriculture,24477,3544,49,170,4.81,39317,2.61,1,2,6.68,4,1,27.15,2,1,2,295369,other,1
+4063,male,22,high school,rural,wholesale,34080,30044,45,181,2.92,41636,8.01,5,4,7.03,1,1,21.65,1,0,5,203185,expansion,0
+147,female,49,doctorate,rural,retail,32932,15416,30,169,4.84,42918,10.2,19,3,3.83,4,1,15.46,1,1,4,11221,other,1
+4718,male,49,doctorate,rural,manufacturing,43648,17992,15,53,4.34,98993,1.06,14,1,5.02,1,1,17.77,1,0,4,176149,inventory,1
+3386,male,18,master's,rural,wholesale,14669,14669,37,63,1.49,95911,10.03,23,2,5.92,4,0,8.54,2,0,2,47812,purchase,0
+1337,female,43,high school,urban,service,23499,23499,18,14,1.73,94854,8.01,11,2,1.55,1,0,16.33,1,1,2,486861,other,0
+1960,female,51,bachelor's,rural,wholesale,28136,28136,44,128,3.49,78396,14.18,3,1,3.83,2,0,22.52,0,0,2,141100,purchase,0
+1766,male,44,master's,urban,agriculture,48809,25254,18,160,4.57,12445,13.74,2,2,7.45,1,1,15.09,1,1,4,441264,expansion,1
+2088,male,49,high school,rural,retail,37934,13659,26,149,4.94,58786,3.49,28,1,7.35,4,1,5.84,2,1,1,64302,expansion,1
+3189,female,21,bachelor's,rural,agriculture,25428,25428,14,29,0.99,41709,7.3,22,2,1.08,2,0,28.53,0,0,2,463001,working capital,0
+82,female,33,bachelor's,rural,manufacturing,43487,10662,13,77,3.21,44184,4.09,20,4,5.92,4,1,9.66,0,0,1,12123,purchase,1
+1381,female,43,doctorate,rural,service,46375,17853,8,74,4.81,59920,9.26,1,1,7.35,1,1,13.82,0,0,1,490998,inventory,1
+4591,male,18,master's,rural,wholesale,49707,12476,38,191,4.04,58609,7.8,27,2,4.31,3,1,27.21,2,2,5,436866,expansion,1
+1156,female,57,high school,urban,wholesale,20596,7902,15,134,1.86,88395,10.17,5,0,2.64,4,0,18.66,0,0,2,221857,other,0
+3257,male,58,bachelor's,rural,agriculture,30973,10067,31,196,3.42,59854,8.37,28,3,5.27,4,1,25.53,2,2,2,222976,inventory,1
+1734,male,24,master's,rural,service,42372,14216,49,159,3.55,97043,14.41,18,0,2.41,1,1,22.28,0,0,4,430720,expansion,1
+2353,male,25,bachelor's,rural,wholesale,29088,11527,6,17,3.27,49709,12.73,3,0,5.4,4,1,24.28,0,0,5,239119,other,1
+2031,male,60,high school,urban,manufacturing,36748,6088,40,90,4.91,93041,2.37,7,0,4.6,4,1,23.01,0,0,1,428528,other,1
+4107,female,23,doctorate,urban,service,40736,21167,19,53,4.06,76660,6.92,9,3,4.12,2,1,28.81,2,0,2,289539,working capital,1
+1734,male,24,master's,rural,service,42372,14216,49,159,3.55,97043,14.41,18,0,2.41,1,1,22.28,0,0,4,430720,expansion,1
+4372,male,57,bachelor's,urban,manufacturing,31790,13312,23,72,3.14,60648,4.84,18,1,7.36,3,1,28.85,1,0,5,22912,working capital,1
+3001,male,23,bachelor's,rural,wholesale,26129,11143,31,72,4.45,91808,11.8,5,3,4.71,3,1,5.59,2,1,1,428127,purchase,1
+3838,female,34,high school,urban,retail,14788,14788,28,85,1.07,36571,4.87,2,3,7.24,4,1,24.45,2,1,5,90645,expansion,0
+1018,female,61,high school,urban,wholesale,28100,28100,11,141,4.31,42001,13.58,3,3,4.67,4,1,12.81,0,0,4,204252,other,0
+2995,male,56,master's,urban,agriculture,28179,9258,32,77,4.87,42617,3.5,13,3,4.63,3,0,25.08,1,0,3,404669,inventory,0
+420,male,47,master's,rural,manufacturing,32584,17638,32,154,3.92,17054,8.23,29,1,4.04,1,1,18.2,1,1,2,156812,expansion,1
+3112,female,51,bachelor's,urban,retail,41294,18531,17,98,1.17,10131,1.5,13,3,3.84,3,0,7.55,2,0,5,29322,working capital,0
+4957,male,19,master's,urban,wholesale,45751,22092,28,184,3.65,38919,5.22,14,4,3.96,2,1,9.51,1,0,5,352028,purchase,1
+217,male,43,high school,rural,retail,33789,6573,16,12,3.53,58056,9.46,6,1,1.33,2,0,20.76,0,0,3,363836,purchase,0
+3664,female,36,high school,rural,retail,33460,7209,27,112,3.95,86880,14.72,19,0,2.13,1,1,20.63,2,2,2,329632,purchase,1
+540,male,26,doctorate,urban,wholesale,48016,16913,40,62,3.98,48560,10.77,5,1,1.74,3,1,18.97,0,0,2,93962,working capital,1
+3950,female,53,high school,urban,manufacturing,40127,17008,29,61,4.8,65644,9.8,12,1,1.84,3,1,13.43,0,0,3,403023,purchase,1
+2991,male,51,doctorate,urban,manufacturing,38132,29468,44,196,2.57,26781,4.25,5,2,3.97,3,0,10.73,2,0,3,15118,expansion,0
+1220,male,49,doctorate,urban,manufacturing,37025,21018,44,85,3.55,11869,6.4,16,2,1.79,3,1,11.11,0,0,4,214925,expansion,1
+2950,male,38,master's,rural,retail,41119,25568,47,77,2.45,87207,4.9,22,3,7,1,1,12.02,1,1,5,475229,expansion,0
+1765,male,28,high school,urban,retail,30191,15501,23,15,3.95,28297,11.38,16,4,2.26,4,1,11.76,0,0,1,482904,other,1
+1824,male,41,bachelor's,urban,wholesale,34910,8909,9,108,4.04,85992,12.3,16,1,7.35,2,1,8.59,2,1,1,448099,inventory,1
+3282,male,20,doctorate,urban,wholesale,37995,12383,36,40,4.1,31750,4.74,9,3,7.87,1,1,17.35,0,0,3,82213,expansion,1
+2006,male,54,bachelor's,urban,manufacturing,29763,11747,49,41,4.43,54827,7.09,25,3,4.97,4,1,9.61,2,1,1,199062,purchase,1
+2226,female,45,high school,rural,service,45358,29990,35,94,2.88,59307,5.97,24,2,4.08,2,1,11.51,1,0,3,38791,other,0
+2254,male,24,bachelor's,rural,agriculture,41161,3290,39,52,3.5,30486,4.97,14,4,7.52,4,1,24.12,2,1,2,80685,working capital,1
+735,female,58,master's,urban,retail,46704,21050,20,196,4.34,43246,10.65,17,3,2.15,3,1,7.57,2,0,4,123045,other,1
+4700,male,63,bachelor's,rural,agriculture,29687,10056,23,199,3.23,64221,6.32,11,0,6.96,1,1,18.19,2,2,1,479373,expansion,1
+4527,male,53,bachelor's,rural,agriculture,13802,13802,9,110,1.43,73811,8.17,23,1,5.26,4,1,8.72,0,0,1,250278,other,0
+4770,female,34,doctorate,urban,service,48394,14851,37,155,1.08,65931,10.02,2,3,7.14,3,0,13.3,1,0,2,153283,expansion,0
+1451,female,42,bachelor's,urban,service,42153,8136,11,24,4.81,36636,2.07,29,0,4.04,2,1,10,1,0,3,330438,purchase,1
+4235,male,63,master's,urban,retail,25045,11056,12,120,3.95,82778,1.39,13,2,6.72,4,1,16.89,1,0,4,269568,working capital,1
+4143,female,45,bachelor's,urban,wholesale,20640,19119,33,37,3.04,98308,11.7,17,4,4.53,2,1,11.07,1,0,1,314223,expansion,0
+1716,female,21,bachelor's,rural,agriculture,47235,7024,48,186,3.95,25555,1.85,8,4,7.19,3,1,5.24,1,0,5,109875,inventory,1
+2145,male,58,high school,rural,agriculture,29881,12387,40,175,4.09,67204,6.27,29,1,2.61,4,1,25.93,1,0,4,47042,expansion,1
+739,male,23,bachelor's,urban,agriculture,36028,15142,46,41,3.68,16646,6.45,13,0,3.08,3,1,9.04,2,0,2,295176,expansion,1
+833,female,20,bachelor's,urban,wholesale,49131,38175,39,182,4.98,90615,4.79,4,2,5.21,3,1,8.16,2,1,2,10685,other,0
+3830,male,53,high school,urban,service,33037,17239,20,34,4.65,69567,14.74,19,2,4.05,4,0,28.34,0,0,3,100643,other,0
+3927,female,27,doctorate,rural,service,8537,8537,14,161,1.54,36003,13.25,13,2,6.32,3,0,21.5,2,1,4,165136,purchase,0
+1380,male,53,doctorate,urban,manufacturing,35284,15549,32,64,4.54,84722,7.95,17,2,1.27,1,0,14.26,0,0,3,36449,purchase,0
+3235,female,36,bachelor's,urban,wholesale,7103,3166,34,192,2.96,27725,10.65,0,1,7.34,2,1,5.75,1,0,3,313157,inventory,0
+2882,female,27,bachelor's,rural,manufacturing,48426,23930,12,36,4.28,48960,10.05,13,2,3.79,4,1,27.78,1,0,5,192960,working capital,1
+1020,male,28,bachelor's,rural,agriculture,38299,33784,40,76,2.92,70660,4.63,9,4,3.5,1,1,19.8,0,0,4,486988,inventory,0
+3001,male,23,bachelor's,rural,wholesale,26129,11143,31,72,4.45,91808,11.8,5,3,4.71,3,1,5.59,2,1,1,428127,purchase,1
+4257,male,51,high school,rural,agriculture,33392,17560,13,72,4.1,88152,12.27,15,4,3.31,4,1,26.3,1,0,4,368192,working capital,1
+3126,female,43,master's,urban,retail,44103,12875,41,75,0.97,98618,13.9,23,0,4.95,4,0,10.25,1,0,2,293479,expansion,0
+478,male,22,high school,rural,manufacturing,39551,9659,47,10,3.65,83184,5.2,0,1,7.93,2,1,11.44,2,1,3,74736,working capital,1
+847,male,23,master's,urban,wholesale,47987,4420,49,37,3.93,21258,8.97,0,0,3.36,4,1,7.92,1,1,3,362953,working capital,1
+1984,female,61,master's,rural,service,20416,9101,47,187,4.48,32903,11.06,11,2,6.47,2,1,6.89,2,1,5,496165,other,1
+1004,female,37,bachelor's,urban,retail,27357,6769,26,183,4.95,13639,2.66,28,0,7.42,2,1,12.77,1,0,3,329826,inventory,1
+713,male,22,high school,urban,manufacturing,22968,7175,43,157,1.34,26403,5.72,24,4,5.29,4,1,11.81,1,0,2,211540,inventory,0
+2149,female,28,high school,urban,wholesale,36160,36160,19,40,4.09,86636,4.51,28,1,2.13,1,1,21.09,0,0,1,378258,purchase,0
+2716,female,64,high school,rural,agriculture,35083,3572,35,99,3.12,90082,8.7,4,4,4.34,3,1,15.85,0,0,1,204041,working capital,1
+2208,male,64,high school,urban,wholesale,8240,8240,32,70,1.07,35519,5.04,9,3,6.34,1,0,16.06,1,0,5,174754,inventory,0
+1356,male,29,doctorate,rural,service,49890,27463,13,155,3.94,27577,5.92,8,2,2.61,1,1,13.81,2,1,2,284593,inventory,1
+637,female,36,doctorate,urban,retail,44685,23733,48,92,3.79,67554,14.78,1,3,6.45,3,1,23.65,1,0,4,119643,other,1
+3604,female,38,master's,rural,manufacturing,15341,15341,44,196,0.74,26850,6.59,22,4,2.14,1,1,15.67,2,2,3,168124,other,0
+4912,male,49,bachelor's,urban,retail,42525,30275,22,168,0.7,45663,4.89,7,4,1.96,3,0,28.09,1,1,5,272997,purchase,0
+914,male,20,bachelor's,rural,service,31641,31641,30,46,2.1,32947,9.93,20,0,4.82,4,0,22.2,1,0,3,327834,inventory,0
+261,male,52,bachelor's,urban,agriculture,38937,3714,18,106,1.26,59181,7.76,0,0,1.69,2,0,9.69,1,0,5,249297,expansion,0
+3921,male,60,doctorate,urban,agriculture,47890,23240,23,153,3.78,50302,6.03,13,2,6.02,2,1,28.42,2,0,3,413730,other,1
+3577,female,62,high school,urban,service,34895,17120,38,28,3.65,95547,14.06,3,2,1.86,4,1,11.24,0,0,1,368501,other,1
+1877,male,56,doctorate,rural,service,5688,5688,23,12,1.85,91491,7.98,2,3,7.44,1,1,29.2,0,0,5,451473,expansion,0
+1562,male,28,high school,rural,wholesale,43764,39688,20,141,2.84,76360,3.79,8,1,7.63,1,1,25.74,1,1,5,91481,inventory,0
+1711,female,39,bachelor's,rural,service,5535,5535,20,73,3.45,78869,10.06,7,3,5,2,0,12.46,1,1,3,149365,other,0
+890,female,60,high school,rural,service,22765,8383,17,79,3.62,13866,2.48,10,0,5.43,2,0,18.18,0,0,2,95217,other,0
+843,male,45,doctorate,rural,agriculture,32265,7378,11,63,4.3,36965,1.07,13,1,3.36,2,0,14.44,2,1,1,38360,other,0
+245,female,49,bachelor's,rural,agriculture,11382,7494,40,92,4.03,69435,14.49,19,4,7.64,1,1,11.23,2,2,1,227997,expansion,0
+1004,female,37,bachelor's,urban,retail,27357,6769,26,183,4.95,13639,2.66,28,0,7.42,2,1,12.77,1,0,3,329826,inventory,1
+4784,female,46,doctorate,urban,service,47836,4201,15,183,3.03,86088,7.1,14,4,6.44,4,1,17.66,2,0,1,231024,other,1
+3886,male,54,doctorate,urban,retail,41989,7626,45,134,3.89,49647,4.67,15,1,2.89,4,1,10.16,1,0,1,342579,working capital,1
+654,male,55,doctorate,rural,agriculture,14740,14740,17,82,0.87,14963,10.98,18,1,4.5,4,0,18.08,0,0,2,409152,expansion,0
+2219,male,51,doctorate,urban,service,17437,7444,44,58,0.91,25066,5.31,17,2,1.35,2,1,9.75,1,0,1,348667,purchase,0
+3784,male,63,bachelor's,rural,agriculture,29130,15519,8,88,1.78,49204,5,0,2,7.96,1,1,13.33,2,1,1,288935,working capital,0
+1523,female,56,bachelor's,rural,service,46349,13891,14,39,3.41,91764,5.1,17,4,7.13,4,1,26.2,0,0,5,129758,inventory,1
+1766,male,44,master's,urban,agriculture,48809,25254,18,160,4.57,12445,13.74,2,2,7.45,1,1,15.09,1,1,4,441264,expansion,1
+978,female,37,master's,urban,manufacturing,28032,15018,32,169,3.25,48899,3.71,13,1,4.5,3,1,17.98,0,0,1,161334,expansion,1
+1603,female,51,bachelor's,urban,retail,32429,27897,31,80,1.47,82754,6.24,1,2,5.46,2,1,13.42,0,0,2,485386,expansion,0
+1523,female,56,bachelor's,rural,service,46349,13891,14,39,3.41,91764,5.1,17,4,7.13,4,1,26.2,0,0,5,129758,inventory,1
+4784,female,46,doctorate,urban,service,47836,4201,15,183,3.03,86088,7.1,14,4,6.44,4,1,17.66,2,0,1,231024,other,1
+4067,female,35,doctorate,urban,manufacturing,20684,14016,36,72,4.94,72508,2.52,5,4,5.64,4,1,16.22,0,0,1,351259,inventory,0
+3672,male,33,bachelor's,rural,manufacturing,23047,12707,39,190,3.17,67238,7.97,13,1,4.12,2,1,6.99,2,2,5,313730,expansion,1
+1408,male,43,high school,rural,manufacturing,46782,28060,30,16,4.08,56278,8.05,8,1,5.32,4,1,6.14,1,1,5,470448,purchase,1
+2906,female,21,high school,rural,service,45720,34955,12,114,2.67,80295,4.3,3,2,2.79,3,0,7.93,2,2,5,226854,expansion,0
+4413,male,50,doctorate,urban,service,6262,6262,21,128,3.19,63949,7.42,17,0,7.47,2,1,14.47,0,0,5,258907,expansion,0
+695,female,45,doctorate,urban,retail,7621,7621,40,63,3.13,35194,3.73,8,2,3.88,4,0,27.43,2,0,2,190433,other,0
+2263,male,39,bachelor's,rural,agriculture,37771,4760,30,133,4.4,40584,3.16,18,2,7.03,2,1,28.74,2,0,4,47503,purchase,1
+4270,male,55,doctorate,urban,service,30259,3603,31,148,4.67,41972,12.64,2,4,2.57,4,1,29.51,0,0,5,266021,expansion,1
+1049,female,57,bachelor's,urban,service,46741,14188,20,163,4.51,42294,5.13,11,0,1.69,3,1,13.91,0,0,4,355882,expansion,1
+2490,female,25,doctorate,rural,wholesale,40402,22005,43,136,3.5,86162,4.1,21,1,6.51,3,1,26.45,1,0,4,392322,working capital,1
+2653,male,22,doctorate,rural,manufacturing,26578,26578,9,198,2.29,54505,3.06,21,4,2.67,1,0,6.08,2,0,2,223003,other,0
+1479,male,56,bachelor's,urban,agriculture,17018,17018,34,57,1.05,46761,13.82,23,1,7.33,1,0,10.76,1,1,4,371726,other,0
+2446,female,35,high school,rural,service,20329,11856,43,66,4.41,38099,1.6,4,0,7,3,1,12.05,1,1,1,104379,expansion,1
+1081,male,44,master's,urban,service,24974,24974,45,119,1.99,32815,2.66,5,3,2.66,1,1,10.32,2,1,4,429723,inventory,0
+4912,male,49,bachelor's,urban,retail,42525,30275,22,168,0.7,45663,4.89,7,4,1.96,3,0,28.09,1,1,5,272997,purchase,0
+1273,female,49,doctorate,rural,manufacturing,35580,35580,42,81,2.06,16646,4.97,26,3,5.56,4,0,14.4,2,1,3,18642,inventory,0
+4470,male,27,bachelor's,urban,agriculture,15464,13152,11,198,4.6,47845,1.13,13,0,3.41,3,0,23.47,1,0,5,35892,expansion,0
+2025,female,47,high school,rural,agriculture,41381,12119,44,61,4.47,83127,10.44,25,1,1.92,4,1,28.1,1,1,2,368479,other,1
+3517,female,48,bachelor's,urban,wholesale,22878,6637,37,180,4.72,35328,12.16,26,4,1.66,4,1,22.09,0,0,4,116761,inventory,1
+210,female,54,high school,rural,manufacturing,32944,24901,15,59,2.63,17936,8.06,18,2,1.11,1,0,6.09,1,0,1,75342,other,0
+824,male,33,doctorate,rural,agriculture,35441,7560,43,34,4.21,45618,6.56,20,2,6.11,3,0,15.36,1,0,4,67508,working capital,0
+836,male,44,doctorate,rural,retail,22793,12629,38,131,4.51,32137,10.91,28,4,6.51,2,1,28.92,0,0,5,250337,other,1
+3172,female,50,master's,rural,agriculture,29346,11097,26,73,4.79,45176,4.77,16,2,8,1,1,24.54,0,0,5,77422,other,1
+3172,female,50,master's,rural,agriculture,29346,11097,26,73,4.79,45176,4.77,16,2,8,1,1,24.54,0,0,5,77422,other,1
+1554,male,29,doctorate,urban,wholesale,29630,5017,7,58,3.44,49630,6.72,26,2,5.61,2,1,12.6,0,0,1,153732,inventory,1
+3088,female,50,doctorate,urban,service,44453,16078,11,89,3.87,13018,2.74,5,3,1.73,2,1,29.59,0,0,4,143359,working capital,1
+4922,female,56,high school,urban,agriculture,21471,21471,19,159,0.5,79795,12.4,27,1,4.21,1,1,8.39,0,0,2,251495,working capital,0
+49,male,19,high school,urban,wholesale,46223,20977,44,96,3.06,71818,3.69,0,1,5.44,1,1,9.57,1,0,5,386050,inventory,1
+1523,female,56,bachelor's,rural,service,46349,13891,14,39,3.41,91764,5.1,17,4,7.13,4,1,26.2,0,0,5,129758,inventory,1
+527,male,51,master's,urban,retail,6504,6504,6,194,3.63,66209,14.53,11,3,4.02,1,1,19.13,1,0,4,430969,expansion,0
+674,male,32,bachelor's,urban,wholesale,30914,15134,29,54,3.71,93499,9.94,4,0,5.81,2,1,22.14,0,0,1,399116,other,1
+4363,female,50,doctorate,urban,service,38655,6746,33,45,3.73,16608,10.33,16,3,1.82,3,1,8.37,0,0,4,421986,working capital,1
+498,female,29,bachelor's,urban,wholesale,48638,6606,24,65,4.24,64235,9.55,24,0,4.11,3,1,28.63,0,0,5,493242,other,1
+4146,male,38,high school,urban,wholesale,8423,8423,31,12,1.75,56730,3.53,27,0,4.17,2,1,27.29,1,1,3,132379,purchase,0
+473,female,50,high school,rural,service,42334,20085,29,97,4.17,12275,3.87,17,3,7.13,2,1,5.9,2,1,2,415568,expansion,1
+1523,female,56,bachelor's,rural,service,46349,13891,14,39,3.41,91764,5.1,17,4,7.13,4,1,26.2,0,0,5,129758,inventory,1
+1023,female,29,doctorate,rural,retail,29946,27700,6,49,3.13,34749,7.82,12,2,6.39,2,0,13.15,0,0,1,163114,other,0
+2217,female,39,high school,urban,retail,16589,10179,33,180,4.06,67143,7,18,4,4.42,3,1,16.66,2,2,4,327697,other,0
+2150,male,18,doctorate,rural,service,7025,7025,15,135,0.89,88779,7.23,28,4,1.65,1,0,27.08,1,1,5,284890,expansion,0
+1744,female,43,doctorate,urban,retail,32326,7367,36,92,4.4,58121,13.67,29,4,6.64,2,1,26.75,2,0,3,183391,purchase,1
+1875,male,19,bachelor's,rural,service,30152,26937,42,190,4.03,84076,8.48,22,3,6.98,4,0,5.94,1,1,1,273096,working capital,0
+3204,male,30,high school,urban,retail,36076,34974,46,187,3.25,60971,9.77,14,2,3.91,1,1,28.77,0,0,2,359261,inventory,0
+2124,male,26,high school,urban,service,29821,9794,43,112,1.96,66917,9.86,20,1,6.91,4,1,24.52,1,0,1,333447,working capital,0
+4308,male,49,high school,rural,manufacturing,48461,15116,22,59,4.37,61974,7.17,19,0,4.35,1,1,29.18,1,0,1,225915,expansion,1
+4787,female,58,bachelor's,rural,wholesale,43568,13551,42,188,4.67,26482,12.2,29,2,1.27,2,1,25.7,0,0,5,152236,inventory,1
+4957,male,19,master's,urban,wholesale,45751,22092,28,184,3.65,38919,5.22,14,4,3.96,2,1,9.51,1,0,5,352028,purchase,1
+1234,female,45,high school,urban,retail,13673,12629,30,157,4.41,28824,2.6,8,3,2.88,4,0,10.23,1,0,3,425035,other,0
+4848,male,26,high school,urban,manufacturing,29592,26331,21,64,2.44,37205,5.86,27,3,4.39,3,0,5.98,1,1,2,171440,expansion,0
+4173,female,37,bachelor's,rural,retail,41794,22359,20,73,3.99,83193,10.46,26,0,6.3,3,1,21.91,0,0,3,129243,other,1
+2421,female,19,master's,rural,service,21150,21150,9,34,3.43,20251,12,28,2,5.21,1,1,8.99,1,1,2,448313,inventory,0
+2590,female,52,doctorate,urban,service,47514,13376,25,81,4.58,84090,11.39,26,1,3.09,1,1,10.99,1,0,3,254045,expansion,1
+1098,female,48,doctorate,rural,wholesale,27991,3794,17,106,2.14,37015,3.9,23,0,1.47,1,1,21.12,0,0,2,236494,working capital,0
+1258,male,41,doctorate,rural,manufacturing,23823,13868,30,73,4.01,87745,13.61,23,2,7.11,2,1,5.92,1,0,4,449146,other,1
+3335,female,39,master's,urban,retail,27998,27998,38,195,1.02,10552,11.8,25,1,6.98,1,0,25.63,0,0,4,255876,inventory,0
+4779,female,33,master's,rural,service,31055,13140,28,169,4.61,41913,13.44,6,3,1.01,3,1,25.8,2,2,4,51618,expansion,1
+4466,female,52,high school,rural,agriculture,16311,9485,36,36,0.62,21815,5.74,24,0,7.53,1,0,17.59,2,1,1,81373,working capital,0
+4305,female,26,high school,urban,agriculture,21154,21154,13,195,2.74,59513,4.52,13,2,6.91,2,0,29.67,2,2,4,208626,other,0
+3595,female,34,master's,urban,wholesale,43472,10129,5,85,3.4,57773,10.8,18,3,6.74,1,1,10.34,1,1,1,491457,inventory,1
+3294,male,25,doctorate,rural,manufacturing,21128,19257,41,69,1.32,51900,14.59,24,4,3.89,3,1,9.42,2,2,1,200144,expansion,0
+2029,male,37,doctorate,rural,service,44140,16060,9,174,4.19,10078,5.91,12,3,3.25,2,1,25.46,0,0,4,356185,expansion,1
+2762,male,42,bachelor's,rural,manufacturing,28238,28238,15,192,1.83,79318,12.73,15,4,2.87,1,0,23.6,2,1,1,165769,other,0
+2400,male,61,bachelor's,rural,service,43645,11065,22,101,4.59,75665,3.74,6,2,4.35,1,1,15.16,2,2,5,237025,expansion,1
+1151,female,45,master's,urban,wholesale,17707,5427,33,107,0.8,63386,7.65,4,4,2.55,3,0,10.07,2,0,1,248002,expansion,0
+925,male,57,master's,urban,retail,21832,20460,49,135,3.94,18301,14.45,12,0,7.1,4,1,20.73,2,0,5,96412,expansion,0
+3411,male,37,master's,rural,agriculture,29647,7161,15,142,2.88,19437,10.94,15,2,6.02,1,1,29.61,1,0,3,273009,inventory,0
+4173,female,37,bachelor's,rural,retail,41794,22359,20,73,3.99,83193,10.46,26,0,6.3,3,1,21.91,0,0,3,129243,other,1
+932,female,43,bachelor's,urban,retail,9854,8699,40,146,1.16,93024,11.94,2,2,7.26,3,0,22.64,0,0,4,125554,expansion,0
