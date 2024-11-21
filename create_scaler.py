@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 import pickle
 
 # Load the dataset
-data = pd.read_csv(r"C:\Users\ayush\Downloads\cleaned_creditworthiness_data.csv")
+data = pd.read_csv(r"cleaned_creditworthiness_data.csv")
 
 # Encode categorical variables
 label_encoders = {}
