@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc
 
 # Load the dataset
-data = pd.read_csv(r"C:\Users\ayush\Downloads\cleaned_creditworthiness_data.csv")
+data = pd.read_csv(r"cleaned_creditworthiness_data.csv")
 
 # Encode categorical variables
 label_encoders = {}
